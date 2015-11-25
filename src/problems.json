@@ -1,0 +1,4942 @@
+[
+    {
+        "url": "http://codeforces.com/contest/593/problem/A",
+        "difficulty": 0.2602646759416356
+    },
+    {
+        "url": "http://codeforces.com/contest/593/problem/B",
+        "difficulty": 0.6851034950797421
+    },
+    {
+        "url": "http://codeforces.com/contest/593/problem/C",
+        "difficulty": 0.99830335934849
+    },
+    {
+        "url": "http://codeforces.com/contest/593/problem/D",
+        "difficulty": 0.9867662029182219
+    },
+    {
+        "url": "http://codeforces.com/contest/593/problem/E",
+        "difficulty": 0.99660671869698
+    },
+    {
+        "url": "http://codeforces.com/contest/591/problem/A",
+        "difficulty": 0.05794392523364489
+    },
+    {
+        "url": "http://codeforces.com/contest/591/problem/B",
+        "difficulty": 0.30249221183800623
+    },
+    {
+        "url": "http://codeforces.com/contest/591/problem/C",
+        "difficulty": 0.760436137071651
+    },
+    {
+        "url": "http://codeforces.com/contest/591/problem/D",
+        "difficulty": 0.9753894080996884
+    },
+    {
+        "url": "http://codeforces.com/contest/591/problem/E",
+        "difficulty": 0.990031152647975
+    },
+    {
+        "url": "http://codeforces.com/contest/551/problem/A",
+        "difficulty": 0.08368644067796616
+    },
+    {
+        "url": "http://codeforces.com/contest/551/problem/B",
+        "difficulty": 0.8576977401129944
+    },
+    {
+        "url": "http://codeforces.com/contest/551/problem/C",
+        "difficulty": 0.9858757062146892
+    },
+    {
+        "url": "http://codeforces.com/contest/551/problem/D",
+        "difficulty": 0.998587570621469
+    },
+    {
+        "url": "http://codeforces.com/contest/551/problem/E",
+        "difficulty": 0.9978813559322034
+    },
+    {
+        "url": "http://codeforces.com/contest/570/problem/A",
+        "difficulty": 0.28583840139009553
+    },
+    {
+        "url": "http://codeforces.com/contest/570/problem/B",
+        "difficulty": 0.42253113234868234
+    },
+    {
+        "url": "http://codeforces.com/contest/570/problem/C",
+        "difficulty": 0.6568201563857515
+    },
+    {
+        "url": "http://codeforces.com/contest/570/problem/D",
+        "difficulty": 0.9950767448595425
+    },
+    {
+        "url": "http://codeforces.com/contest/570/problem/E",
+        "difficulty": 0.9953663481030988
+    },
+    {
+        "url": "http://codeforces.com/contest/357/problem/A",
+        "difficulty": 0.2003464203233256
+    },
+    {
+        "url": "http://codeforces.com/contest/357/problem/B",
+        "difficulty": 0.4503464203233256
+    },
+    {
+        "url": "http://codeforces.com/contest/357/problem/C",
+        "difficulty": 0.848729792147806
+    },
+    {
+        "url": "http://codeforces.com/contest/357/problem/D",
+        "difficulty": 0.9786374133949192
+    },
+    {
+        "url": "http://codeforces.com/contest/357/problem/E",
+        "difficulty": 0.9924942263279446
+    },
+    {
+        "url": "http://codeforces.com/contest/495/problem/A",
+        "difficulty": 0.262036642522369
+    },
+    {
+        "url": "http://codeforces.com/contest/495/problem/B",
+        "difficulty": 0.7337025990626331
+    },
+    {
+        "url": "http://codeforces.com/contest/495/problem/C",
+        "difficulty": 0.898167873881551
+    },
+    {
+        "url": "http://codeforces.com/contest/495/problem/D",
+        "difficulty": 0.9965913932680017
+    },
+    {
+        "url": "http://codeforces.com/contest/495/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/557/problem/A",
+        "difficulty": 0.1955555555555556
+    },
+    {
+        "url": "http://codeforces.com/contest/557/problem/B",
+        "difficulty": 0.7014814814814815
+    },
+    {
+        "url": "http://codeforces.com/contest/557/problem/C",
+        "difficulty": 0.9196296296296296
+    },
+    {
+        "url": "http://codeforces.com/contest/557/problem/D",
+        "difficulty": 0.9840740740740741
+    },
+    {
+        "url": "http://codeforces.com/contest/557/problem/E",
+        "difficulty": 0.9985185185185185
+    },
+    {
+        "url": "http://codeforces.com/contest/133/problem/A",
+        "difficulty": 0.08352144469525957
+    },
+    {
+        "url": "http://codeforces.com/contest/133/problem/B",
+        "difficulty": 0.23702031602708806
+    },
+    {
+        "url": "http://codeforces.com/contest/133/problem/C",
+        "difficulty": 0.38600451467268626
+    },
+    {
+        "url": "http://codeforces.com/contest/133/problem/D",
+        "difficulty": 0.9556057185854026
+    },
+    {
+        "url": "http://codeforces.com/contest/133/problem/E",
+        "difficulty": 0.9503386004514672
+    },
+    {
+        "url": "http://codeforces.com/contest/496/problem/A",
+        "difficulty": 0.12787926926131854
+    },
+    {
+        "url": "http://codeforces.com/contest/496/problem/B",
+        "difficulty": 0.5659253375694996
+    },
+    {
+        "url": "http://codeforces.com/contest/496/problem/C",
+        "difficulty": 0.7370929308975378
+    },
+    {
+        "url": "http://codeforces.com/contest/496/problem/D",
+        "difficulty": 0.9864972200158856
+    },
+    {
+        "url": "http://codeforces.com/contest/496/problem/E",
+        "difficulty": 0.9972200158856235
+    },
+    {
+        "url": "http://codeforces.com/contest/569/problem/A",
+        "difficulty": 0.6778811739441661
+    },
+    {
+        "url": "http://codeforces.com/contest/569/problem/B",
+        "difficulty": 0.3138869005010737
+    },
+    {
+        "url": "http://codeforces.com/contest/569/problem/C",
+        "difficulty": 0.8496778811739442
+    },
+    {
+        "url": "http://codeforces.com/contest/569/problem/D",
+        "difficulty": 0.9788833214030065
+    },
+    {
+        "url": "http://codeforces.com/contest/569/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/572/problem/A",
+        "difficulty": 0.14979277679100056
+    },
+    {
+        "url": "http://codeforces.com/contest/572/problem/B",
+        "difficulty": 0.5304914150384843
+    },
+    {
+        "url": "http://codeforces.com/contest/572/problem/C",
+        "difficulty": 0.9958555358200119
+    },
+    {
+        "url": "http://codeforces.com/contest/572/problem/D",
+        "difficulty": 0.9949674363528715
+    },
+    {
+        "url": "http://codeforces.com/contest/572/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/548/problem/A",
+        "difficulty": 0.37750626566416046
+    },
+    {
+        "url": "http://codeforces.com/contest/548/problem/B",
+        "difficulty": 0.5949248120300752
+    },
+    {
+        "url": "http://codeforces.com/contest/548/problem/C",
+        "difficulty": 0.9971804511278195
+    },
+    {
+        "url": "http://codeforces.com/contest/548/problem/D",
+        "difficulty": 0.9830827067669173
+    },
+    {
+        "url": "http://codeforces.com/contest/548/problem/E",
+        "difficulty": 0.9993734335839599
+    },
+    {
+        "url": "http://codeforces.com/contest/583/problem/A",
+        "difficulty": 0.10850253807106602
+    },
+    {
+        "url": "http://codeforces.com/contest/583/problem/B",
+        "difficulty": 0.26501692047377323
+    },
+    {
+        "url": "http://codeforces.com/contest/583/problem/C",
+        "difficulty": 0.7925126903553299
+    },
+    {
+        "url": "http://codeforces.com/contest/583/problem/D",
+        "difficulty": 0.942258883248731
+    },
+    {
+        "url": "http://codeforces.com/contest/583/problem/E",
+        "difficulty": 0.9991539763113367
+    },
+    {
+        "url": "http://codeforces.com/contest/214/problem/A",
+        "difficulty": 0.10273972602739723
+    },
+    {
+        "url": "http://codeforces.com/contest/214/problem/B",
+        "difficulty": 0.7983257229832572
+    },
+    {
+        "url": "http://codeforces.com/contest/214/problem/C",
+        "difficulty": 0.941400304414003
+    },
+    {
+        "url": "http://codeforces.com/contest/214/problem/D",
+        "difficulty": 0.9946727549467276
+    },
+    {
+        "url": "http://codeforces.com/contest/214/problem/E",
+        "difficulty": 0.9809741248097412
+    },
+    {
+        "url": "http://codeforces.com/contest/168/problem/A",
+        "difficulty": 0.12759856630824373
+    },
+    {
+        "url": "http://codeforces.com/contest/168/problem/B",
+        "difficulty": 0.8093189964157705
+    },
+    {
+        "url": "http://codeforces.com/contest/168/problem/C",
+        "difficulty": 0.7397849462365591
+    },
+    {
+        "url": "http://codeforces.com/contest/168/problem/D",
+        "difficulty": 0.9799283154121864
+    },
+    {
+        "url": "http://codeforces.com/contest/168/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/514/problem/A",
+        "difficulty": 0.2627898417372102
+    },
+    {
+        "url": "http://codeforces.com/contest/514/problem/B",
+        "difficulty": 0.47221199852778795
+    },
+    {
+        "url": "http://codeforces.com/contest/514/problem/C",
+        "difficulty": 0.9709238130290762
+    },
+    {
+        "url": "http://codeforces.com/contest/514/problem/D",
+        "difficulty": 0.9657710710342289
+    },
+    {
+        "url": "http://codeforces.com/contest/514/problem/E",
+        "difficulty": 0.9966875230033124
+    },
+    {
+        "url": "http://codeforces.com/contest/279/problem/A",
+        "difficulty": 0.49204478491455506
+    },
+    {
+        "url": "http://codeforces.com/contest/279/problem/B",
+        "difficulty": 0.45492044784914554
+    },
+    {
+        "url": "http://codeforces.com/contest/279/problem/C",
+        "difficulty": 0.8526812021213908
+    },
+    {
+        "url": "http://codeforces.com/contest/279/problem/D",
+        "difficulty": 0.9976428992339422
+    },
+    {
+        "url": "http://codeforces.com/contest/279/problem/E",
+        "difficulty": 0.9404832056570418
+    },
+    {
+        "url": "http://codeforces.com/contest/596/problem/A",
+        "difficulty": 0.27869427869427865
+    },
+    {
+        "url": "http://codeforces.com/contest/596/problem/B",
+        "difficulty": 0.23517023517023516
+    },
+    {
+        "url": "http://codeforces.com/contest/596/problem/C",
+        "difficulty": 0.8188838188838189
+    },
+    {
+        "url": "http://codeforces.com/contest/596/problem/D",
+        "difficulty": 0.9936819936819937
+    },
+    {
+        "url": "http://codeforces.com/contest/596/problem/E",
+        "difficulty": 0.9992979992979993
+    },
+    {
+        "url": "http://codeforces.com/contest/492/problem/A",
+        "difficulty": 0.09320961619569801
+    },
+    {
+        "url": "http://codeforces.com/contest/492/problem/B",
+        "difficulty": 0.3454238717840573
+    },
+    {
+        "url": "http://codeforces.com/contest/492/problem/C",
+        "difficulty": 0.6326444538169549
+    },
+    {
+        "url": "http://codeforces.com/contest/492/problem/D",
+        "difficulty": 0.9063686208350907
+    },
+    {
+        "url": "http://codeforces.com/contest/492/problem/E",
+        "difficulty": 0.9822859552931252
+    },
+    {
+        "url": "http://codeforces.com/contest/59/problem/A",
+        "difficulty": 0.06976744186046513
+    },
+    {
+        "url": "http://codeforces.com/contest/59/problem/B",
+        "difficulty": 0.3746770025839793
+    },
+    {
+        "url": "http://codeforces.com/contest/59/problem/C",
+        "difficulty": 0.8165374677002584
+    },
+    {
+        "url": "http://codeforces.com/contest/59/problem/D",
+        "difficulty": 0.9767441860465116
+    },
+    {
+        "url": "http://codeforces.com/contest/59/problem/E",
+        "difficulty": 0.9844961240310077
+    },
+    {
+        "url": "http://codeforces.com/contest/35/problem/A",
+        "difficulty": 0.10040160642570284
+    },
+    {
+        "url": "http://codeforces.com/contest/35/problem/B",
+        "difficulty": 0.7630522088353413
+    },
+    {
+        "url": "http://codeforces.com/contest/35/problem/C",
+        "difficulty": 0.6506024096385542
+    },
+    {
+        "url": "http://codeforces.com/contest/35/problem/D",
+        "difficulty": 0.7590361445783133
+    },
+    {
+        "url": "http://codeforces.com/contest/35/problem/E",
+        "difficulty": 0.9759036144578314
+    },
+    {
+        "url": "http://codeforces.com/contest/437/problem/A",
+        "difficulty": 0.42960088691796006
+    },
+    {
+        "url": "http://codeforces.com/contest/437/problem/B",
+        "difficulty": 0.582039911308204
+    },
+    {
+        "url": "http://codeforces.com/contest/437/problem/C",
+        "difficulty": 0.7328159645232816
+    },
+    {
+        "url": "http://codeforces.com/contest/437/problem/D",
+        "difficulty": 0.9822616407982262
+    },
+    {
+        "url": "http://codeforces.com/contest/437/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/546/problem/A",
+        "difficulty": 0.05170821791320401
+    },
+    {
+        "url": "http://codeforces.com/contest/546/problem/B",
+        "difficulty": 0.5047706986765159
+    },
+    {
+        "url": "http://codeforces.com/contest/546/problem/C",
+        "difficulty": 0.6174207448445675
+    },
+    {
+        "url": "http://codeforces.com/contest/546/problem/D",
+        "difficulty": 0.9116651277316097
+    },
+    {
+        "url": "http://codeforces.com/contest/546/problem/E",
+        "difficulty": 0.9919975377039089
+    },
+    {
+        "url": "http://codeforces.com/contest/556/problem/A",
+        "difficulty": 0.15405224380442062
+    },
+    {
+        "url": "http://codeforces.com/contest/556/problem/B",
+        "difficulty": 0.2572002679169457
+    },
+    {
+        "url": "http://codeforces.com/contest/556/problem/C",
+        "difficulty": 0.6500334896182183
+    },
+    {
+        "url": "http://codeforces.com/contest/556/problem/D",
+        "difficulty": 0.9869390488948426
+    },
+    {
+        "url": "http://codeforces.com/contest/556/problem/E",
+        "difficulty": 0.9973208305425318
+    },
+    {
+        "url": "http://codeforces.com/contest/488/problem/A",
+        "difficulty": 0.2986791648913507
+    },
+    {
+        "url": "http://codeforces.com/contest/488/problem/B",
+        "difficulty": 0.9352364720920324
+    },
+    {
+        "url": "http://codeforces.com/contest/488/problem/C",
+        "difficulty": 0.9731572219855135
+    },
+    {
+        "url": "http://codeforces.com/contest/488/problem/D",
+        "difficulty": 0.9978696207925011
+    },
+    {
+        "url": "http://codeforces.com/contest/488/problem/E",
+        "difficulty": 0.9995739241585002
+    },
+    {
+        "url": "http://codeforces.com/contest/501/problem/A",
+        "difficulty": 0.12870733072188023
+    },
+    {
+        "url": "http://codeforces.com/contest/501/problem/B",
+        "difficulty": 0.2663682148852826
+    },
+    {
+        "url": "http://codeforces.com/contest/501/problem/C",
+        "difficulty": 0.8740906547285954
+    },
+    {
+        "url": "http://codeforces.com/contest/501/problem/D",
+        "difficulty": 0.9882484611080022
+    },
+    {
+        "url": "http://codeforces.com/contest/501/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/415/problem/A",
+        "difficulty": 0.05537280701754388
+    },
+    {
+        "url": "http://codeforces.com/contest/415/problem/B",
+        "difficulty": 0.5663377192982456
+    },
+    {
+        "url": "http://codeforces.com/contest/415/problem/C",
+        "difficulty": 0.6787280701754386
+    },
+    {
+        "url": "http://codeforces.com/contest/415/problem/D",
+        "difficulty": 0.7691885964912281
+    },
+    {
+        "url": "http://codeforces.com/contest/415/problem/E",
+        "difficulty": 0.9967105263157895
+    },
+    {
+        "url": "http://codeforces.com/contest/114/problem/A",
+        "difficulty": 0.24731182795698925
+    },
+    {
+        "url": "http://codeforces.com/contest/114/problem/B",
+        "difficulty": 0.6832844574780059
+    },
+    {
+        "url": "http://codeforces.com/contest/114/problem/C",
+        "difficulty": 0.8543499511241447
+    },
+    {
+        "url": "http://codeforces.com/contest/114/problem/D",
+        "difficulty": 0.9951124144672532
+    },
+    {
+        "url": "http://codeforces.com/contest/114/problem/E",
+        "difficulty": 0.9951124144672532
+    },
+    {
+        "url": "http://codeforces.com/contest/378/problem/A",
+        "difficulty": 0.04848161960575381
+    },
+    {
+        "url": "http://codeforces.com/contest/378/problem/B",
+        "difficulty": 0.4064997336174747
+    },
+    {
+        "url": "http://codeforces.com/contest/378/problem/C",
+        "difficulty": 0.7607884922749067
+    },
+    {
+        "url": "http://codeforces.com/contest/378/problem/D",
+        "difficulty": 0.9834842834310069
+    },
+    {
+        "url": "http://codeforces.com/contest/378/problem/E",
+        "difficulty": 0.9978689397975493
+    },
+    {
+        "url": "http://codeforces.com/contest/275/problem/A",
+        "difficulty": 0.07979033197437391
+    },
+    {
+        "url": "http://codeforces.com/contest/275/problem/B",
+        "difficulty": 0.8241118229470006
+    },
+    {
+        "url": "http://codeforces.com/contest/275/problem/C",
+        "difficulty": 0.7117064647641235
+    },
+    {
+        "url": "http://codeforces.com/contest/275/problem/D",
+        "difficulty": 0.9749563191613279
+    },
+    {
+        "url": "http://codeforces.com/contest/275/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/430/problem/A",
+        "difficulty": 0.6680161943319838
+    },
+    {
+        "url": "http://codeforces.com/contest/430/problem/B",
+        "difficulty": 0.4145748987854251
+    },
+    {
+        "url": "http://codeforces.com/contest/430/problem/C",
+        "difficulty": 0.7975708502024291
+    },
+    {
+        "url": "http://codeforces.com/contest/430/problem/D",
+        "difficulty": 0.9441295546558705
+    },
+    {
+        "url": "http://codeforces.com/contest/430/problem/E",
+        "difficulty": 0.9959514170040485
+    },
+    {
+        "url": "http://codeforces.com/contest/181/problem/A",
+        "difficulty": 0.05901116427432218
+    },
+    {
+        "url": "http://codeforces.com/contest/181/problem/B",
+        "difficulty": 0.4545454545454546
+    },
+    {
+        "url": "http://codeforces.com/contest/181/problem/C",
+        "difficulty": 0.6650717703349283
+    },
+    {
+        "url": "http://codeforces.com/contest/181/problem/D",
+        "difficulty": 0.94896331738437
+    },
+    {
+        "url": "http://codeforces.com/contest/181/problem/E",
+        "difficulty": 0.9840510366826156
+    },
+    {
+        "url": "http://codeforces.com/contest/540/problem/A",
+        "difficulty": 0.07541899441340782
+    },
+    {
+        "url": "http://codeforces.com/contest/540/problem/B",
+        "difficulty": 0.8431763766959297
+    },
+    {
+        "url": "http://codeforces.com/contest/540/problem/C",
+        "difficulty": 0.9074221867517956
+    },
+    {
+        "url": "http://codeforces.com/contest/540/problem/D",
+        "difficulty": 0.9596967278531524
+    },
+    {
+        "url": "http://codeforces.com/contest/540/problem/E",
+        "difficulty": 0.99122106943336
+    },
+    {
+        "url": "http://codeforces.com/contest/382/problem/A",
+        "difficulty": 0.24392480513525905
+    },
+    {
+        "url": "http://codeforces.com/contest/382/problem/B",
+        "difficulty": 0.9403943145346172
+    },
+    {
+        "url": "http://codeforces.com/contest/382/problem/C",
+        "difficulty": 0.8418156808803301
+    },
+    {
+        "url": "http://codeforces.com/contest/382/problem/D",
+        "difficulty": 0.988537368179734
+    },
+    {
+        "url": "http://codeforces.com/contest/382/problem/E",
+        "difficulty": 0.9981659789087575
+    },
+    {
+        "url": "http://codeforces.com/contest/124/problem/A",
+        "difficulty": 0.11298932384341642
+    },
+    {
+        "url": "http://codeforces.com/contest/124/problem/B",
+        "difficulty": 0.5142348754448398
+    },
+    {
+        "url": "http://codeforces.com/contest/124/problem/C",
+        "difficulty": 0.8247330960854092
+    },
+    {
+        "url": "http://codeforces.com/contest/124/problem/D",
+        "difficulty": 0.9564056939501779
+    },
+    {
+        "url": "http://codeforces.com/contest/124/problem/E",
+        "difficulty": 0.9991103202846975
+    },
+    {
+        "url": "http://codeforces.com/contest/479/problem/A",
+        "difficulty": 0.20180334907685704
+    },
+    {
+        "url": "http://codeforces.com/contest/479/problem/B",
+        "difficulty": 0.5083726921425504
+    },
+    {
+        "url": "http://codeforces.com/contest/479/problem/C",
+        "difficulty": 0.6616573636753972
+    },
+    {
+        "url": "http://codeforces.com/contest/479/problem/D",
+        "difficulty": 0.9347359381708888
+    },
+    {
+        "url": "http://codeforces.com/contest/479/problem/E",
+        "difficulty": 0.978531558608845
+    },
+    {
+        "url": "http://codeforces.com/contest/552/problem/A",
+        "difficulty": 0.14527260179434087
+    },
+    {
+        "url": "http://codeforces.com/contest/552/problem/B",
+        "difficulty": 0.31297446514837823
+    },
+    {
+        "url": "http://codeforces.com/contest/552/problem/C",
+        "difficulty": 0.898895790200138
+    },
+    {
+        "url": "http://codeforces.com/contest/552/problem/D",
+        "difficulty": 0.9051069703243616
+    },
+    {
+        "url": "http://codeforces.com/contest/552/problem/E",
+        "difficulty": 0.9913733609385783
+    },
+    {
+        "url": "http://codeforces.com/contest/336/problem/A",
+        "difficulty": 0.08775137111517373
+    },
+    {
+        "url": "http://codeforces.com/contest/336/problem/B",
+        "difficulty": 0.894576477757465
+    },
+    {
+        "url": "http://codeforces.com/contest/336/problem/C",
+        "difficulty": 0.8598415600243754
+    },
+    {
+        "url": "http://codeforces.com/contest/336/problem/D",
+        "difficulty": 0.9908592321755028
+    },
+    {
+        "url": "http://codeforces.com/contest/336/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/580/problem/A",
+        "difficulty": 0.1308716402913841
+    },
+    {
+        "url": "http://codeforces.com/contest/580/problem/B",
+        "difficulty": 0.6124089424767647
+    },
+    {
+        "url": "http://codeforces.com/contest/580/problem/C",
+        "difficulty": 0.6709369505149461
+    },
+    {
+        "url": "http://codeforces.com/contest/580/problem/D",
+        "difficulty": 0.9223813112283346
+    },
+    {
+        "url": "http://codeforces.com/contest/580/problem/E",
+        "difficulty": 0.9989952273298166
+    },
+    {
+        "url": "http://codeforces.com/contest/384/problem/A",
+        "difficulty": 0.07864654778235025
+    },
+    {
+        "url": "http://codeforces.com/contest/384/problem/B",
+        "difficulty": 0.6227709190672154
+    },
+    {
+        "url": "http://codeforces.com/contest/384/problem/C",
+        "difficulty": 0.7201646090534979
+    },
+    {
+        "url": "http://codeforces.com/contest/384/problem/D",
+        "difficulty": 0.9990855052583447
+    },
+    {
+        "url": "http://codeforces.com/contest/384/problem/E",
+        "difficulty": 0.9958847736625515
+    },
+    {
+        "url": "http://codeforces.com/contest/174/problem/A",
+        "difficulty": 0.2954898911353032
+    },
+    {
+        "url": "http://codeforces.com/contest/174/problem/B",
+        "difficulty": 0.6531881804043547
+    },
+    {
+        "url": "http://codeforces.com/contest/174/problem/C",
+        "difficulty": 0.838258164852255
+    },
+    {
+        "url": "http://codeforces.com/contest/174/problem/D",
+        "difficulty": 0.9611197511664075
+    },
+    {
+        "url": "http://codeforces.com/contest/174/problem/E",
+        "difficulty": 0.995334370139969
+    },
+    {
+        "url": "http://codeforces.com/contest/381/problem/A",
+        "difficulty": 0.06139088729016784
+    },
+    {
+        "url": "http://codeforces.com/contest/381/problem/B",
+        "difficulty": 0.2685851318944844
+    },
+    {
+        "url": "http://codeforces.com/contest/381/problem/C",
+        "difficulty": 0.8695443645083933
+    },
+    {
+        "url": "http://codeforces.com/contest/381/problem/D",
+        "difficulty": 0.9976019184652278
+    },
+    {
+        "url": "http://codeforces.com/contest/381/problem/E",
+        "difficulty": 0.9832134292565947
+    },
+    {
+        "url": "http://codeforces.com/contest/558/problem/A",
+        "difficulty": 0.2336809578988026
+    },
+    {
+        "url": "http://codeforces.com/contest/558/problem/B",
+        "difficulty": 0.48706064117419856
+    },
+    {
+        "url": "http://codeforces.com/contest/558/problem/C",
+        "difficulty": 0.9474700656624179
+    },
+    {
+        "url": "http://codeforces.com/contest/558/problem/D",
+        "difficulty": 0.9972962533796833
+    },
+    {
+        "url": "http://codeforces.com/contest/558/problem/E",
+        "difficulty": 0.9945925067593665
+    },
+    {
+        "url": "http://codeforces.com/contest/595/problem/A",
+        "difficulty": 0.058345021037868205
+    },
+    {
+        "url": "http://codeforces.com/contest/595/problem/B",
+        "difficulty": 0.6889200561009818
+    },
+    {
+        "url": "http://codeforces.com/contest/595/problem/C",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/595/problem/D",
+        "difficulty": 0.9983169705469845
+    },
+    {
+        "url": "http://codeforces.com/contest/595/problem/E",
+        "difficulty": 0.9991584852734923
+    },
+    {
+        "url": "http://codeforces.com/contest/424/problem/A",
+        "difficulty": 0.09523809523809523
+    },
+    {
+        "url": "http://codeforces.com/contest/424/problem/B",
+        "difficulty": 0.2735760971055089
+    },
+    {
+        "url": "http://codeforces.com/contest/424/problem/C",
+        "difficulty": 0.6750700280112045
+    },
+    {
+        "url": "http://codeforces.com/contest/424/problem/D",
+        "difficulty": 0.9850606909430439
+    },
+    {
+        "url": "http://codeforces.com/contest/424/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/302/problem/A",
+        "difficulty": 0.1635036496350365
+    },
+    {
+        "url": "http://codeforces.com/contest/302/problem/B",
+        "difficulty": 0.30802919708029197
+    },
+    {
+        "url": "http://codeforces.com/contest/302/problem/C",
+        "difficulty": 0.8715328467153285
+    },
+    {
+        "url": "http://codeforces.com/contest/302/problem/D",
+        "difficulty": 0.945985401459854
+    },
+    {
+        "url": "http://codeforces.com/contest/302/problem/E",
+        "difficulty": 0.9985401459854014
+    },
+    {
+        "url": "http://codeforces.com/contest/305/problem/A",
+        "difficulty": 0.7118512780790085
+    },
+    {
+        "url": "http://codeforces.com/contest/305/problem/B",
+        "difficulty": 0.8303640588690937
+    },
+    {
+        "url": "http://codeforces.com/contest/305/problem/C",
+        "difficulty": 0.7195972114639815
+    },
+    {
+        "url": "http://codeforces.com/contest/305/problem/D",
+        "difficulty": 0.9961270333075135
+    },
+    {
+        "url": "http://codeforces.com/contest/305/problem/E",
+        "difficulty": 0.9922540666150271
+    },
+    {
+        "url": "http://codeforces.com/contest/527/problem/A",
+        "difficulty": 0.2938983050847458
+    },
+    {
+        "url": "http://codeforces.com/contest/527/problem/B",
+        "difficulty": 0.7694915254237288
+    },
+    {
+        "url": "http://codeforces.com/contest/527/problem/C",
+        "difficulty": 0.9284745762711865
+    },
+    {
+        "url": "http://codeforces.com/contest/527/problem/D",
+        "difficulty": 0.9867796610169491
+    },
+    {
+        "url": "http://codeforces.com/contest/527/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/215/problem/A",
+        "difficulty": 0.15631848064280496
+    },
+    {
+        "url": "http://codeforces.com/contest/215/problem/B",
+        "difficulty": 0.3732651570489408
+    },
+    {
+        "url": "http://codeforces.com/contest/215/problem/C",
+        "difficulty": 0.9802775748721695
+    },
+    {
+        "url": "http://codeforces.com/contest/215/problem/D",
+        "difficulty": 0.8867786705624543
+    },
+    {
+        "url": "http://codeforces.com/contest/215/problem/E",
+        "difficulty": 0.9956172388604821
+    },
+    {
+        "url": "http://codeforces.com/contest/602/problem/A",
+        "difficulty": 0.3302063789868668
+    },
+    {
+        "url": "http://codeforces.com/contest/602/problem/B",
+        "difficulty": 0.5472170106316447
+    },
+    {
+        "url": "http://codeforces.com/contest/602/problem/C",
+        "difficulty": 0.7163852407754847
+    },
+    {
+        "url": "http://codeforces.com/contest/602/problem/D",
+        "difficulty": 0.982801751094434
+    },
+    {
+        "url": "http://codeforces.com/contest/602/problem/E",
+        "difficulty": 0.9971857410881801
+    },
+    {
+        "url": "http://codeforces.com/contest/416/problem/A",
+        "difficulty": 0.5019040365575019
+    },
+    {
+        "url": "http://codeforces.com/contest/416/problem/B",
+        "difficulty": 0.332063975628332
+    },
+    {
+        "url": "http://codeforces.com/contest/416/problem/C",
+        "difficulty": 0.693069306930693
+    },
+    {
+        "url": "http://codeforces.com/contest/416/problem/D",
+        "difficulty": 0.9923838537699924
+    },
+    {
+        "url": "http://codeforces.com/contest/416/problem/E",
+        "difficulty": 0.9977151561309977
+    },
+    {
+        "url": "http://codeforces.com/contest/463/problem/A",
+        "difficulty": 0.37905015534842434
+    },
+    {
+        "url": "http://codeforces.com/contest/463/problem/B",
+        "difficulty": 0.2108300044385264
+    },
+    {
+        "url": "http://codeforces.com/contest/463/problem/C",
+        "difficulty": 0.9214380825565912
+    },
+    {
+        "url": "http://codeforces.com/contest/463/problem/D",
+        "difficulty": 0.933422103861518
+    },
+    {
+        "url": "http://codeforces.com/contest/463/problem/E",
+        "difficulty": 0.9920106524633822
+    },
+    {
+        "url": "http://codeforces.com/contest/592/problem/A",
+        "difficulty": 0.45783132530120485
+    },
+    {
+        "url": "http://codeforces.com/contest/592/problem/B",
+        "difficulty": 0.2524383247274814
+    },
+    {
+        "url": "http://codeforces.com/contest/592/problem/C",
+        "difficulty": 0.8711990820424556
+    },
+    {
+        "url": "http://codeforces.com/contest/592/problem/D",
+        "difficulty": 0.9764773379231211
+    },
+    {
+        "url": "http://codeforces.com/contest/592/problem/E",
+        "difficulty": 0.9997131382673551
+    },
+    {
+        "url": "http://codeforces.com/contest/359/problem/A",
+        "difficulty": 0.12679628064243453
+    },
+    {
+        "url": "http://codeforces.com/contest/359/problem/B",
+        "difficulty": 0.41420118343195267
+    },
+    {
+        "url": "http://codeforces.com/contest/359/problem/C",
+        "difficulty": 0.9492814877430262
+    },
+    {
+        "url": "http://codeforces.com/contest/359/problem/D",
+        "difficulty": 0.9501267962806424
+    },
+    {
+        "url": "http://codeforces.com/contest/359/problem/E",
+        "difficulty": 0.9957734573119188
+    },
+    {
+        "url": "http://codeforces.com/contest/219/problem/A",
+        "difficulty": 0.21423220973782775
+    },
+    {
+        "url": "http://codeforces.com/contest/219/problem/B",
+        "difficulty": 0.5797752808988764
+    },
+    {
+        "url": "http://codeforces.com/contest/219/problem/C",
+        "difficulty": 0.7745318352059924
+    },
+    {
+        "url": "http://codeforces.com/contest/219/problem/D",
+        "difficulty": 0.8928838951310861
+    },
+    {
+        "url": "http://codeforces.com/contest/219/problem/E",
+        "difficulty": 0.9955056179775281
+    },
+    {
+        "url": "http://codeforces.com/contest/427/problem/A",
+        "difficulty": 0.035750766087844776
+    },
+    {
+        "url": "http://codeforces.com/contest/427/problem/B",
+        "difficulty": 0.2272727272727273
+    },
+    {
+        "url": "http://codeforces.com/contest/427/problem/C",
+        "difficulty": 0.7865168539325843
+    },
+    {
+        "url": "http://codeforces.com/contest/427/problem/D",
+        "difficulty": 0.9795709908069459
+    },
+    {
+        "url": "http://codeforces.com/contest/427/problem/E",
+        "difficulty": 0.965270684371808
+    },
+    {
+        "url": "http://codeforces.com/contest/350/problem/A",
+        "difficulty": 0.33456904541241894
+    },
+    {
+        "url": "http://codeforces.com/contest/350/problem/B",
+        "difficulty": 0.6547729379054681
+    },
+    {
+        "url": "http://codeforces.com/contest/350/problem/C",
+        "difficulty": 0.7071362372567191
+    },
+    {
+        "url": "http://codeforces.com/contest/350/problem/D",
+        "difficulty": 0.9990732159406858
+    },
+    {
+        "url": "http://codeforces.com/contest/350/problem/E",
+        "difficulty": 0.9888785912882299
+    },
+    {
+        "url": "http://codeforces.com/contest/75/problem/A",
+        "difficulty": 0.21814671814671815
+    },
+    {
+        "url": "http://codeforces.com/contest/75/problem/B",
+        "difficulty": 0.5617760617760618
+    },
+    {
+        "url": "http://codeforces.com/contest/75/problem/C",
+        "difficulty": 0.7857142857142857
+    },
+    {
+        "url": "http://codeforces.com/contest/75/problem/D",
+        "difficulty": 0.9652509652509652
+    },
+    {
+        "url": "http://codeforces.com/contest/75/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/535/problem/A",
+        "difficulty": 0.16870415647921755
+    },
+    {
+        "url": "http://codeforces.com/contest/535/problem/B",
+        "difficulty": 0.2713936430317848
+    },
+    {
+        "url": "http://codeforces.com/contest/535/problem/C",
+        "difficulty": 0.9364303178484108
+    },
+    {
+        "url": "http://codeforces.com/contest/535/problem/D",
+        "difficulty": 0.9884736290604261
+    },
+    {
+        "url": "http://codeforces.com/contest/535/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/352/problem/A",
+        "difficulty": 0.16902050113895217
+    },
+    {
+        "url": "http://codeforces.com/contest/352/problem/B",
+        "difficulty": 0.40410022779043275
+    },
+    {
+        "url": "http://codeforces.com/contest/352/problem/C",
+        "difficulty": 0.9535307517084283
+    },
+    {
+        "url": "http://codeforces.com/contest/352/problem/D",
+        "difficulty": 0.9826879271070615
+    },
+    {
+        "url": "http://codeforces.com/contest/352/problem/E",
+        "difficulty": 0.9995444191343964
+    },
+    {
+        "url": "http://codeforces.com/contest/476/problem/A",
+        "difficulty": 0.18482107746755805
+    },
+    {
+        "url": "http://codeforces.com/contest/476/problem/B",
+        "difficulty": 0.39834840739284305
+    },
+    {
+        "url": "http://codeforces.com/contest/476/problem/C",
+        "difficulty": 0.8529296106960284
+    },
+    {
+        "url": "http://codeforces.com/contest/476/problem/D",
+        "difficulty": 0.9410145497443964
+    },
+    {
+        "url": "http://codeforces.com/contest/476/problem/E",
+        "difficulty": 0.9988202909948879
+    },
+    {
+        "url": "http://codeforces.com/contest/71/problem/A",
+        "difficulty": 0.04518072289156627
+    },
+    {
+        "url": "http://codeforces.com/contest/71/problem/B",
+        "difficulty": 0.4487951807228916
+    },
+    {
+        "url": "http://codeforces.com/contest/71/problem/C",
+        "difficulty": 0.6897590361445782
+    },
+    {
+        "url": "http://codeforces.com/contest/71/problem/D",
+        "difficulty": 0.9849397590361446
+    },
+    {
+        "url": "http://codeforces.com/contest/71/problem/E",
+        "difficulty": 0.9879518072289156
+    },
+    {
+        "url": "http://codeforces.com/contest/507/problem/A",
+        "difficulty": 0.19525350593311763
+    },
+    {
+        "url": "http://codeforces.com/contest/507/problem/B",
+        "difficulty": 0.552319309600863
+    },
+    {
+        "url": "http://codeforces.com/contest/507/problem/C",
+        "difficulty": 0.7846098525710177
+    },
+    {
+        "url": "http://codeforces.com/contest/507/problem/D",
+        "difficulty": 0.992089176555196
+    },
+    {
+        "url": "http://codeforces.com/contest/507/problem/E",
+        "difficulty": 0.9816612729234089
+    },
+    {
+        "url": "http://codeforces.com/contest/584/problem/A",
+        "difficulty": 0.1876298176782829
+    },
+    {
+        "url": "http://codeforces.com/contest/584/problem/B",
+        "difficulty": 0.4971151627048235
+    },
+    {
+        "url": "http://codeforces.com/contest/584/problem/C",
+        "difficulty": 0.7279021463189477
+    },
+    {
+        "url": "http://codeforces.com/contest/584/problem/D",
+        "difficulty": 0.7980613893376414
+    },
+    {
+        "url": "http://codeforces.com/contest/584/problem/E",
+        "difficulty": 0.9893837987537503
+    },
+    {
+        "url": "http://codeforces.com/contest/189/problem/A",
+        "difficulty": 0.4398009950248756
+    },
+    {
+        "url": "http://codeforces.com/contest/189/problem/B",
+        "difficulty": 0.38706467661691546
+    },
+    {
+        "url": "http://codeforces.com/contest/189/problem/C",
+        "difficulty": 0.7492537313432837
+    },
+    {
+        "url": "http://codeforces.com/contest/189/problem/D",
+        "difficulty": 0.9621890547263682
+    },
+    {
+        "url": "http://codeforces.com/contest/189/problem/E",
+        "difficulty": 0.9761194029850746
+    },
+    {
+        "url": "http://codeforces.com/contest/136/problem/A",
+        "difficulty": 0.03453237410071941
+    },
+    {
+        "url": "http://codeforces.com/contest/136/problem/B",
+        "difficulty": 0.21726618705035972
+    },
+    {
+        "url": "http://codeforces.com/contest/136/problem/C",
+        "difficulty": 0.4589928057553957
+    },
+    {
+        "url": "http://codeforces.com/contest/136/problem/D",
+        "difficulty": 0.797841726618705
+    },
+    {
+        "url": "http://codeforces.com/contest/136/problem/E",
+        "difficulty": 0.9755395683453237
+    },
+    {
+        "url": "http://codeforces.com/contest/233/problem/A",
+        "difficulty": 0.06662312214239063
+    },
+    {
+        "url": "http://codeforces.com/contest/233/problem/B",
+        "difficulty": 0.5956890920966689
+    },
+    {
+        "url": "http://codeforces.com/contest/233/problem/C",
+        "difficulty": 0.9118223383409536
+    },
+    {
+        "url": "http://codeforces.com/contest/233/problem/D",
+        "difficulty": 0.9934683213585892
+    },
+    {
+        "url": "http://codeforces.com/contest/233/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/141/problem/A",
+        "difficulty": 0.0649762282091918
+    },
+    {
+        "url": "http://codeforces.com/contest/141/problem/B",
+        "difficulty": 0.5467511885895404
+    },
+    {
+        "url": "http://codeforces.com/contest/141/problem/C",
+        "difficulty": 0.8423137876386688
+    },
+    {
+        "url": "http://codeforces.com/contest/141/problem/D",
+        "difficulty": 0.9944532488114105
+    },
+    {
+        "url": "http://codeforces.com/contest/141/problem/E",
+        "difficulty": 0.9976228209191759
+    },
+    {
+        "url": "http://codeforces.com/contest/58/problem/A",
+        "difficulty": 0.1503416856492027
+    },
+    {
+        "url": "http://codeforces.com/contest/58/problem/B",
+        "difficulty": 0.40091116173120733
+    },
+    {
+        "url": "http://codeforces.com/contest/58/problem/C",
+        "difficulty": 0.8747152619589977
+    },
+    {
+        "url": "http://codeforces.com/contest/58/problem/D",
+        "difficulty": 0.9544419134396356
+    },
+    {
+        "url": "http://codeforces.com/contest/58/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/337/problem/A",
+        "difficulty": 0.15086206896551724
+    },
+    {
+        "url": "http://codeforces.com/contest/337/problem/B",
+        "difficulty": 0.5910560344827587
+    },
+    {
+        "url": "http://codeforces.com/contest/337/problem/C",
+        "difficulty": 0.8766163793103449
+    },
+    {
+        "url": "http://codeforces.com/contest/337/problem/D",
+        "difficulty": 0.9892241379310345
+    },
+    {
+        "url": "http://codeforces.com/contest/337/problem/E",
+        "difficulty": 0.9973060344827587
+    },
+    {
+        "url": "http://codeforces.com/contest/560/problem/A",
+        "difficulty": 0.14819715514389675
+    },
+    {
+        "url": "http://codeforces.com/contest/560/problem/B",
+        "difficulty": 0.4932186569632815
+    },
+    {
+        "url": "http://codeforces.com/contest/560/problem/C",
+        "difficulty": 0.6893814091961628
+    },
+    {
+        "url": "http://codeforces.com/contest/560/problem/D",
+        "difficulty": 0.9268938140919616
+    },
+    {
+        "url": "http://codeforces.com/contest/560/problem/E",
+        "difficulty": 0.9976844194508766
+    },
+    {
+        "url": "http://codeforces.com/contest/112/problem/A",
+        "difficulty": 0.07017543859649122
+    },
+    {
+        "url": "http://codeforces.com/contest/112/problem/B",
+        "difficulty": 0.2962962962962963
+    },
+    {
+        "url": "http://codeforces.com/contest/112/problem/C",
+        "difficulty": 0.5964912280701755
+    },
+    {
+        "url": "http://codeforces.com/contest/112/problem/D",
+        "difficulty": 0.8996101364522417
+    },
+    {
+        "url": "http://codeforces.com/contest/112/problem/E",
+        "difficulty": 0.97953216374269
+    },
+    {
+        "url": "http://codeforces.com/contest/385/problem/A",
+        "difficulty": 0.13937753721244928
+    },
+    {
+        "url": "http://codeforces.com/contest/385/problem/B",
+        "difficulty": 0.4190347316193054
+    },
+    {
+        "url": "http://codeforces.com/contest/385/problem/C",
+        "difficulty": 0.8876860622462788
+    },
+    {
+        "url": "http://codeforces.com/contest/385/problem/D",
+        "difficulty": 0.995489400090212
+    },
+    {
+        "url": "http://codeforces.com/contest/385/problem/E",
+        "difficulty": 0.9981957600360848
+    },
+    {
+        "url": "http://codeforces.com/contest/94/problem/A",
+        "difficulty": 0.09042553191489366
+    },
+    {
+        "url": "http://codeforces.com/contest/94/problem/B",
+        "difficulty": 0.3417553191489362
+    },
+    {
+        "url": "http://codeforces.com/contest/94/problem/C",
+        "difficulty": 0.7632978723404256
+    },
+    {
+        "url": "http://codeforces.com/contest/94/problem/D",
+        "difficulty": 0.9428191489361702
+    },
+    {
+        "url": "http://codeforces.com/contest/94/problem/E",
+        "difficulty": 0.9946808510638298
+    },
+    {
+        "url": "http://codeforces.com/contest/327/problem/A",
+        "difficulty": 0.2524983344437042
+    },
+    {
+        "url": "http://codeforces.com/contest/327/problem/B",
+        "difficulty": 0.27048634243837444
+    },
+    {
+        "url": "http://codeforces.com/contest/327/problem/C",
+        "difficulty": 0.7854763491005996
+    },
+    {
+        "url": "http://codeforces.com/contest/327/problem/D",
+        "difficulty": 0.9173884077281812
+    },
+    {
+        "url": "http://codeforces.com/contest/327/problem/E",
+        "difficulty": 0.9926715522984677
+    },
+    {
+        "url": "http://codeforces.com/contest/340/problem/A",
+        "difficulty": 0.3621621621621621
+    },
+    {
+        "url": "http://codeforces.com/contest/340/problem/B",
+        "difficulty": 0.971007371007371
+    },
+    {
+        "url": "http://codeforces.com/contest/340/problem/C",
+        "difficulty": 0.8810810810810811
+    },
+    {
+        "url": "http://codeforces.com/contest/340/problem/D",
+        "difficulty": 0.9017199017199017
+    },
+    {
+        "url": "http://codeforces.com/contest/340/problem/E",
+        "difficulty": 0.9906633906633907
+    },
+    {
+        "url": "http://codeforces.com/contest/276/problem/A",
+        "difficulty": 0.08742138364779872
+    },
+    {
+        "url": "http://codeforces.com/contest/276/problem/B",
+        "difficulty": 0.42327044025157234
+    },
+    {
+        "url": "http://codeforces.com/contest/276/problem/C",
+        "difficulty": 0.6238993710691824
+    },
+    {
+        "url": "http://codeforces.com/contest/276/problem/D",
+        "difficulty": 0.8188679245283019
+    },
+    {
+        "url": "http://codeforces.com/contest/276/problem/E",
+        "difficulty": 0.9880503144654088
+    },
+    {
+        "url": "http://codeforces.com/contest/104/problem/A",
+        "difficulty": 0.06627906976744191
+    },
+    {
+        "url": "http://codeforces.com/contest/104/problem/B",
+        "difficulty": 0.24767441860465111
+    },
+    {
+        "url": "http://codeforces.com/contest/104/problem/C",
+        "difficulty": 0.7360465116279069
+    },
+    {
+        "url": "http://codeforces.com/contest/104/problem/D",
+        "difficulty": 0.9488372093023256
+    },
+    {
+        "url": "http://codeforces.com/contest/104/problem/E",
+        "difficulty": 0.9872093023255814
+    },
+    {
+        "url": "http://codeforces.com/contest/41/problem/A",
+        "difficulty": 0.1164021164021164
+    },
+    {
+        "url": "http://codeforces.com/contest/41/problem/B",
+        "difficulty": 0.5423280423280423
+    },
+    {
+        "url": "http://codeforces.com/contest/41/problem/C",
+        "difficulty": 0.3862433862433863
+    },
+    {
+        "url": "http://codeforces.com/contest/41/problem/D",
+        "difficulty": 0.9497354497354498
+    },
+    {
+        "url": "http://codeforces.com/contest/41/problem/E",
+        "difficulty": 0.8862433862433863
+    },
+    {
+        "url": "http://codeforces.com/contest/61/problem/A",
+        "difficulty": 0.04337899543378998
+    },
+    {
+        "url": "http://codeforces.com/contest/61/problem/B",
+        "difficulty": 0.504566210045662
+    },
+    {
+        "url": "http://codeforces.com/contest/61/problem/C",
+        "difficulty": 0.9680365296803652
+    },
+    {
+        "url": "http://codeforces.com/contest/61/problem/D",
+        "difficulty": 0.9360730593607306
+    },
+    {
+        "url": "http://codeforces.com/contest/61/problem/E",
+        "difficulty": 0.9885844748858448
+    },
+    {
+        "url": "http://codeforces.com/contest/106/problem/A",
+        "difficulty": 0.22700814901047728
+    },
+    {
+        "url": "http://codeforces.com/contest/106/problem/B",
+        "difficulty": 0.20372526193247964
+    },
+    {
+        "url": "http://codeforces.com/contest/106/problem/C",
+        "difficulty": 0.7916181606519208
+    },
+    {
+        "url": "http://codeforces.com/contest/106/problem/D",
+        "difficulty": 0.8568102444703143
+    },
+    {
+        "url": "http://codeforces.com/contest/106/problem/E",
+        "difficulty": 0.9988358556461001
+    },
+    {
+        "url": "http://codeforces.com/contest/349/problem/A",
+        "difficulty": 0.30560498220640564
+    },
+    {
+        "url": "http://codeforces.com/contest/349/problem/B",
+        "difficulty": 0.7798042704626335
+    },
+    {
+        "url": "http://codeforces.com/contest/349/problem/C",
+        "difficulty": 0.858540925266904
+    },
+    {
+        "url": "http://codeforces.com/contest/349/problem/D",
+        "difficulty": 0.9986654804270463
+    },
+    {
+        "url": "http://codeforces.com/contest/349/problem/E",
+        "difficulty": 0.9995551601423488
+    },
+    {
+        "url": "http://codeforces.com/contest/431/problem/A",
+        "difficulty": 0.03870651641352274
+    },
+    {
+        "url": "http://codeforces.com/contest/431/problem/B",
+        "difficulty": 0.2631063204311612
+    },
+    {
+        "url": "http://codeforces.com/contest/431/problem/C",
+        "difficulty": 0.7329740323370897
+    },
+    {
+        "url": "http://codeforces.com/contest/431/problem/D",
+        "difficulty": 0.9779519843214111
+    },
+    {
+        "url": "http://codeforces.com/contest/431/problem/E",
+        "difficulty": 0.9970602645761881
+    },
+    {
+        "url": "http://codeforces.com/contest/353/problem/A",
+        "difficulty": 0.3419798835362625
+    },
+    {
+        "url": "http://codeforces.com/contest/353/problem/B",
+        "difficulty": 0.8655373213340392
+    },
+    {
+        "url": "http://codeforces.com/contest/353/problem/C",
+        "difficulty": 0.6903123345685548
+    },
+    {
+        "url": "http://codeforces.com/contest/353/problem/D",
+        "difficulty": 0.9502382212811011
+    },
+    {
+        "url": "http://codeforces.com/contest/353/problem/E",
+        "difficulty": 0.9962943356273161
+    },
+    {
+        "url": "http://codeforces.com/contest/366/problem/A",
+        "difficulty": 0.20509633312616538
+    },
+    {
+        "url": "http://codeforces.com/contest/366/problem/B",
+        "difficulty": 0.3213175885643257
+    },
+    {
+        "url": "http://codeforces.com/contest/366/problem/C",
+        "difficulty": 0.9067743940335612
+    },
+    {
+        "url": "http://codeforces.com/contest/366/problem/D",
+        "difficulty": 0.9844623990055935
+    },
+    {
+        "url": "http://codeforces.com/contest/366/problem/E",
+        "difficulty": 0.980733374766936
+    },
+    {
+        "url": "http://codeforces.com/contest/493/problem/A",
+        "difficulty": 0.42870201096892135
+    },
+    {
+        "url": "http://codeforces.com/contest/493/problem/B",
+        "difficulty": 0.6124314442413163
+    },
+    {
+        "url": "http://codeforces.com/contest/493/problem/C",
+        "difficulty": 0.8944241316270567
+    },
+    {
+        "url": "http://codeforces.com/contest/493/problem/D",
+        "difficulty": 0.7806215722120659
+    },
+    {
+        "url": "http://codeforces.com/contest/493/problem/E",
+        "difficulty": 0.9995429616087751
+    },
+    {
+        "url": "http://codeforces.com/contest/278/problem/A",
+        "difficulty": 0.07203842049092846
+    },
+    {
+        "url": "http://codeforces.com/contest/278/problem/B",
+        "difficulty": 0.6237993596584845
+    },
+    {
+        "url": "http://codeforces.com/contest/278/problem/C",
+        "difficulty": 0.6248665955176094
+    },
+    {
+        "url": "http://codeforces.com/contest/278/problem/D",
+        "difficulty": 0.996264674493063
+    },
+    {
+        "url": "http://codeforces.com/contest/278/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/253/problem/A",
+        "difficulty": 0.2699228791773779
+    },
+    {
+        "url": "http://codeforces.com/contest/253/problem/B",
+        "difficulty": 0.4610111396743788
+    },
+    {
+        "url": "http://codeforces.com/contest/253/problem/C",
+        "difficulty": 0.7437874892887746
+    },
+    {
+        "url": "http://codeforces.com/contest/253/problem/D",
+        "difficulty": 0.9828620394173093
+    },
+    {
+        "url": "http://codeforces.com/contest/253/problem/E",
+        "difficulty": 0.9931448157669237
+    },
+    {
+        "url": "http://codeforces.com/contest/363/problem/A",
+        "difficulty": 0.07971656333038091
+    },
+    {
+        "url": "http://codeforces.com/contest/363/problem/B",
+        "difficulty": 0.2621789193976971
+    },
+    {
+        "url": "http://codeforces.com/contest/363/problem/C",
+        "difficulty": 0.4534986713906112
+    },
+    {
+        "url": "http://codeforces.com/contest/363/problem/D",
+        "difficulty": 0.8689105403011514
+    },
+    {
+        "url": "http://codeforces.com/contest/363/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/525/problem/A",
+        "difficulty": 0.2420382165605095
+    },
+    {
+        "url": "http://codeforces.com/contest/525/problem/B",
+        "difficulty": 0.5658174097664543
+    },
+    {
+        "url": "http://codeforces.com/contest/525/problem/C",
+        "difficulty": 0.7200990799716914
+    },
+    {
+        "url": "http://codeforces.com/contest/525/problem/D",
+        "difficulty": 0.9943382873319179
+    },
+    {
+        "url": "http://codeforces.com/contest/525/problem/E",
+        "difficulty": 0.9950460014154282
+    },
+    {
+        "url": "http://codeforces.com/contest/166/problem/A",
+        "difficulty": 0.3305613305613305
+    },
+    {
+        "url": "http://codeforces.com/contest/166/problem/B",
+        "difficulty": 0.9743589743589743
+    },
+    {
+        "url": "http://codeforces.com/contest/166/problem/C",
+        "difficulty": 0.5994455994455994
+    },
+    {
+        "url": "http://codeforces.com/contest/166/problem/D",
+        "difficulty": 0.9972279972279973
+    },
+    {
+        "url": "http://codeforces.com/contest/166/problem/E",
+        "difficulty": 0.6812196812196812
+    },
+    {
+        "url": "http://codeforces.com/contest/270/problem/A",
+        "difficulty": 0.20491803278688525
+    },
+    {
+        "url": "http://codeforces.com/contest/270/problem/B",
+        "difficulty": 0.43934426229508194
+    },
+    {
+        "url": "http://codeforces.com/contest/270/problem/C",
+        "difficulty": 0.862295081967213
+    },
+    {
+        "url": "http://codeforces.com/contest/270/problem/D",
+        "difficulty": 0.9573770491803278
+    },
+    {
+        "url": "http://codeforces.com/contest/270/problem/E",
+        "difficulty": 0.9989071038251366
+    },
+    {
+        "url": "http://codeforces.com/contest/460/problem/A",
+        "difficulty": 0.11990489130434778
+    },
+    {
+        "url": "http://codeforces.com/contest/460/problem/B",
+        "difficulty": 0.6542119565217391
+    },
+    {
+        "url": "http://codeforces.com/contest/460/problem/C",
+        "difficulty": 0.9334239130434783
+    },
+    {
+        "url": "http://codeforces.com/contest/460/problem/D",
+        "difficulty": 0.9962635869565217
+    },
+    {
+        "url": "http://codeforces.com/contest/460/problem/E",
+        "difficulty": 0.9989809782608695
+    },
+    {
+        "url": "http://codeforces.com/contest/143/problem/A",
+        "difficulty": 0.20813397129186606
+    },
+    {
+        "url": "http://codeforces.com/contest/143/problem/B",
+        "difficulty": 0.30861244019138756
+    },
+    {
+        "url": "http://codeforces.com/contest/143/problem/C",
+        "difficulty": 0.8325358851674641
+    },
+    {
+        "url": "http://codeforces.com/contest/143/problem/D",
+        "difficulty": 0.9330143540669856
+    },
+    {
+        "url": "http://codeforces.com/contest/143/problem/E",
+        "difficulty": 0.9992025518341308
+    },
+    {
+        "url": "http://codeforces.com/contest/116/problem/A",
+        "difficulty": 0.046511627906976716
+    },
+    {
+        "url": "http://codeforces.com/contest/116/problem/B",
+        "difficulty": 0.38046511627906976
+    },
+    {
+        "url": "http://codeforces.com/contest/116/problem/C",
+        "difficulty": 0.5079069767441861
+    },
+    {
+        "url": "http://codeforces.com/contest/116/problem/D",
+        "difficulty": 0.826046511627907
+    },
+    {
+        "url": "http://codeforces.com/contest/116/problem/E",
+        "difficulty": 0.9934883720930232
+    },
+    {
+        "url": "http://codeforces.com/contest/371/problem/A",
+        "difficulty": 0.23994038748137114
+    },
+    {
+        "url": "http://codeforces.com/contest/371/problem/B",
+        "difficulty": 0.5067064083457526
+    },
+    {
+        "url": "http://codeforces.com/contest/371/problem/C",
+        "difficulty": 0.7876304023845008
+    },
+    {
+        "url": "http://codeforces.com/contest/371/problem/D",
+        "difficulty": 0.8882265275707899
+    },
+    {
+        "url": "http://codeforces.com/contest/371/problem/E",
+        "difficulty": 0.9865871833084948
+    },
+    {
+        "url": "http://codeforces.com/contest/255/problem/A",
+        "difficulty": 0.03665283540802211
+    },
+    {
+        "url": "http://codeforces.com/contest/255/problem/B",
+        "difficulty": 0.30082987551867224
+    },
+    {
+        "url": "http://codeforces.com/contest/255/problem/C",
+        "difficulty": 0.9087136929460581
+    },
+    {
+        "url": "http://codeforces.com/contest/255/problem/D",
+        "difficulty": 0.9598893499308437
+    },
+    {
+        "url": "http://codeforces.com/contest/255/problem/E",
+        "difficulty": 0.9965421853388658
+    },
+    {
+        "url": "http://codeforces.com/contest/369/problem/A",
+        "difficulty": 0.12221672439386444
+    },
+    {
+        "url": "http://codeforces.com/contest/369/problem/B",
+        "difficulty": 0.5962394854032658
+    },
+    {
+        "url": "http://codeforces.com/contest/369/problem/C",
+        "difficulty": 0.7812963879267689
+    },
+    {
+        "url": "http://codeforces.com/contest/369/problem/D",
+        "difficulty": 0.9925779317169718
+    },
+    {
+        "url": "http://codeforces.com/contest/369/problem/E",
+        "difficulty": 0.9945571499257794
+    },
+    {
+        "url": "http://codeforces.com/contest/334/problem/A",
+        "difficulty": 0.09071274298056153
+    },
+    {
+        "url": "http://codeforces.com/contest/334/problem/B",
+        "difficulty": 0.7062634989200864
+    },
+    {
+        "url": "http://codeforces.com/contest/334/problem/C",
+        "difficulty": 0.687365010799136
+    },
+    {
+        "url": "http://codeforces.com/contest/334/problem/D",
+        "difficulty": 0.9065874730021598
+    },
+    {
+        "url": "http://codeforces.com/contest/334/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/404/problem/A",
+        "difficulty": 0.22831505483549352
+    },
+    {
+        "url": "http://codeforces.com/contest/404/problem/B",
+        "difficulty": 0.6665004985044866
+    },
+    {
+        "url": "http://codeforces.com/contest/404/problem/C",
+        "difficulty": 0.8893320039880359
+    },
+    {
+        "url": "http://codeforces.com/contest/404/problem/D",
+        "difficulty": 0.9720837487537388
+    },
+    {
+        "url": "http://codeforces.com/contest/404/problem/E",
+        "difficulty": 0.9985044865403788
+    },
+    {
+        "url": "http://codeforces.com/contest/402/problem/A",
+        "difficulty": 0.2711386696730552
+    },
+    {
+        "url": "http://codeforces.com/contest/402/problem/B",
+        "difficulty": 0.6268320180383314
+    },
+    {
+        "url": "http://codeforces.com/contest/402/problem/C",
+        "difficulty": 0.6426155580608794
+    },
+    {
+        "url": "http://codeforces.com/contest/402/problem/D",
+        "difficulty": 0.979706877113867
+    },
+    {
+        "url": "http://codeforces.com/contest/402/problem/E",
+        "difficulty": 0.9909808342728298
+    },
+    {
+        "url": "http://codeforces.com/contest/508/problem/A",
+        "difficulty": 0.3025420694593627
+    },
+    {
+        "url": "http://codeforces.com/contest/508/problem/B",
+        "difficulty": 0.426781238811314
+    },
+    {
+        "url": "http://codeforces.com/contest/508/problem/C",
+        "difficulty": 0.7676333691371285
+    },
+    {
+        "url": "http://codeforces.com/contest/508/problem/D",
+        "difficulty": 0.9992839240959541
+    },
+    {
+        "url": "http://codeforces.com/contest/508/problem/E",
+        "difficulty": 0.991765127103473
+    },
+    {
+        "url": "http://codeforces.com/contest/221/problem/A",
+        "difficulty": 0.10851063829787233
+    },
+    {
+        "url": "http://codeforces.com/contest/221/problem/B",
+        "difficulty": 0.4382978723404255
+    },
+    {
+        "url": "http://codeforces.com/contest/221/problem/C",
+        "difficulty": 0.5290780141843971
+    },
+    {
+        "url": "http://codeforces.com/contest/221/problem/D",
+        "difficulty": 0.9624113475177305
+    },
+    {
+        "url": "http://codeforces.com/contest/221/problem/E",
+        "difficulty": 0.9971631205673759
+    },
+    {
+        "url": "http://codeforces.com/contest/519/problem/A",
+        "difficulty": 0.13824383164005805
+    },
+    {
+        "url": "http://codeforces.com/contest/519/problem/B",
+        "difficulty": 0.24419448476052252
+    },
+    {
+        "url": "http://codeforces.com/contest/519/problem/C",
+        "difficulty": 0.36502177068214803
+    },
+    {
+        "url": "http://codeforces.com/contest/519/problem/D",
+        "difficulty": 0.9227140783744557
+    },
+    {
+        "url": "http://codeforces.com/contest/519/problem/E",
+        "difficulty": 0.9814949201741655
+    },
+    {
+        "url": "http://codeforces.com/contest/599/problem/A",
+        "difficulty": 0.08448275862068966
+    },
+    {
+        "url": "http://codeforces.com/contest/599/problem/B",
+        "difficulty": 0.7172413793103448
+    },
+    {
+        "url": "http://codeforces.com/contest/599/problem/C",
+        "difficulty": 0.700287356321839
+    },
+    {
+        "url": "http://codeforces.com/contest/599/problem/D",
+        "difficulty": 0.9126436781609195
+    },
+    {
+        "url": "http://codeforces.com/contest/599/problem/E",
+        "difficulty": 0.9997126436781609
+    },
+    {
+        "url": "http://codeforces.com/contest/445/problem/A",
+        "difficulty": 0.31660631143300566
+    },
+    {
+        "url": "http://codeforces.com/contest/445/problem/B",
+        "difficulty": 0.5307811691670978
+    },
+    {
+        "url": "http://codeforces.com/contest/445/problem/C",
+        "difficulty": 0.8644593895499224
+    },
+    {
+        "url": "http://codeforces.com/contest/445/problem/D",
+        "difficulty": 0.9968960165545784
+    },
+    {
+        "url": "http://codeforces.com/contest/445/problem/E",
+        "difficulty": 0.9984480082772892
+    },
+    {
+        "url": "http://codeforces.com/contest/228/problem/A",
+        "difficulty": 0.03778184034125531
+    },
+    {
+        "url": "http://codeforces.com/contest/228/problem/B",
+        "difficulty": 0.45155393053016457
+    },
+    {
+        "url": "http://codeforces.com/contest/228/problem/C",
+        "difficulty": 0.9853747714808044
+    },
+    {
+        "url": "http://codeforces.com/contest/228/problem/D",
+        "difficulty": 0.9884216940889702
+    },
+    {
+        "url": "http://codeforces.com/contest/228/problem/E",
+        "difficulty": 0.9457647775746496
+    },
+    {
+        "url": "http://codeforces.com/contest/144/problem/A",
+        "difficulty": 0.07369196757553431
+    },
+    {
+        "url": "http://codeforces.com/contest/144/problem/B",
+        "difficulty": 0.3706705969049373
+    },
+    {
+        "url": "http://codeforces.com/contest/144/problem/C",
+        "difficulty": 0.6809137803979366
+    },
+    {
+        "url": "http://codeforces.com/contest/144/problem/D",
+        "difficulty": 0.9240972733971997
+    },
+    {
+        "url": "http://codeforces.com/contest/144/problem/E",
+        "difficulty": 0.993367722918202
+    },
+    {
+        "url": "http://codeforces.com/contest/374/problem/A",
+        "difficulty": 0.9296520423600605
+    },
+    {
+        "url": "http://codeforces.com/contest/374/problem/B",
+        "difficulty": 0.7420574886535551
+    },
+    {
+        "url": "http://codeforces.com/contest/374/problem/C",
+        "difficulty": 0.943267776096823
+    },
+    {
+        "url": "http://codeforces.com/contest/374/problem/D",
+        "difficulty": 0.9818456883509834
+    },
+    {
+        "url": "http://codeforces.com/contest/374/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/190/problem/A",
+        "difficulty": 0.6483899042645779
+    },
+    {
+        "url": "http://codeforces.com/contest/190/problem/B",
+        "difficulty": 0.9486510008703221
+    },
+    {
+        "url": "http://codeforces.com/contest/190/problem/C",
+        "difficulty": 0.9599651871192341
+    },
+    {
+        "url": "http://codeforces.com/contest/190/problem/D",
+        "difficulty": 0.9573542210617929
+    },
+    {
+        "url": "http://codeforces.com/contest/190/problem/E",
+        "difficulty": 0.9947780678851175
+    },
+    {
+        "url": "http://codeforces.com/contest/544/problem/A",
+        "difficulty": 0.25680726107848373
+    },
+    {
+        "url": "http://codeforces.com/contest/544/problem/B",
+        "difficulty": 0.5616657768286172
+    },
+    {
+        "url": "http://codeforces.com/contest/544/problem/C",
+        "difficulty": 0.9487453283502403
+    },
+    {
+        "url": "http://codeforces.com/contest/544/problem/D",
+        "difficulty": 0.99572877736252
+    },
+    {
+        "url": "http://codeforces.com/contest/544/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/450/problem/A",
+        "difficulty": 0.17773359840954273
+    },
+    {
+        "url": "http://codeforces.com/contest/450/problem/B",
+        "difficulty": 0.5689860834990059
+    },
+    {
+        "url": "http://codeforces.com/contest/450/problem/C",
+        "difficulty": 0.8803180914512923
+    },
+    {
+        "url": "http://codeforces.com/contest/450/problem/D",
+        "difficulty": 0.990854870775348
+    },
+    {
+        "url": "http://codeforces.com/contest/450/problem/E",
+        "difficulty": 0.9984095427435388
+    },
+    {
+        "url": "http://codeforces.com/contest/43/problem/A",
+        "difficulty": 0.1465968586387435
+    },
+    {
+        "url": "http://codeforces.com/contest/43/problem/B",
+        "difficulty": 0.23298429319371727
+    },
+    {
+        "url": "http://codeforces.com/contest/43/problem/C",
+        "difficulty": 0.3534031413612565
+    },
+    {
+        "url": "http://codeforces.com/contest/43/problem/D",
+        "difficulty": 0.9109947643979057
+    },
+    {
+        "url": "http://codeforces.com/contest/43/problem/E",
+        "difficulty": 0.9869109947643979
+    },
+    {
+        "url": "http://codeforces.com/contest/550/problem/A",
+        "difficulty": 0.705546218487395
+    },
+    {
+        "url": "http://codeforces.com/contest/550/problem/B",
+        "difficulty": 0.5297478991596638
+    },
+    {
+        "url": "http://codeforces.com/contest/550/problem/C",
+        "difficulty": 0.667563025210084
+    },
+    {
+        "url": "http://codeforces.com/contest/550/problem/D",
+        "difficulty": 0.9368067226890756
+    },
+    {
+        "url": "http://codeforces.com/contest/550/problem/E",
+        "difficulty": 0.9902521008403361
+    },
+    {
+        "url": "http://codeforces.com/contest/467/problem/A",
+        "difficulty": 0.021760311789542075
+    },
+    {
+        "url": "http://codeforces.com/contest/467/problem/B",
+        "difficulty": 0.30302046118869763
+    },
+    {
+        "url": "http://codeforces.com/contest/467/problem/C",
+        "difficulty": 0.8544982137057486
+    },
+    {
+        "url": "http://codeforces.com/contest/467/problem/D",
+        "difficulty": 0.9961026307242611
+    },
+    {
+        "url": "http://codeforces.com/contest/467/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/362/problem/A",
+        "difficulty": 0.5995423340961099
+    },
+    {
+        "url": "http://codeforces.com/contest/362/problem/B",
+        "difficulty": 0.2980549199084668
+    },
+    {
+        "url": "http://codeforces.com/contest/362/problem/C",
+        "difficulty": 0.9387871853546911
+    },
+    {
+        "url": "http://codeforces.com/contest/362/problem/D",
+        "difficulty": 0.9982837528604119
+    },
+    {
+        "url": "http://codeforces.com/contest/362/problem/E",
+        "difficulty": 0.9977116704805492
+    },
+    {
+        "url": "http://codeforces.com/contest/53/problem/A",
+        "difficulty": 0.27692307692307694
+    },
+    {
+        "url": "http://codeforces.com/contest/53/problem/B",
+        "difficulty": 0.9192307692307692
+    },
+    {
+        "url": "http://codeforces.com/contest/53/problem/C",
+        "difficulty": 0.2153846153846154
+    },
+    {
+        "url": "http://codeforces.com/contest/53/problem/D",
+        "difficulty": 0.6346153846153846
+    },
+    {
+        "url": "http://codeforces.com/contest/53/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/227/problem/A",
+        "difficulty": 0.5011372251705838
+    },
+    {
+        "url": "http://codeforces.com/contest/227/problem/B",
+        "difficulty": 0.20773313115996972
+    },
+    {
+        "url": "http://codeforces.com/contest/227/problem/C",
+        "difficulty": 0.6413949962092494
+    },
+    {
+        "url": "http://codeforces.com/contest/227/problem/D",
+        "difficulty": 0.9567854435178165
+    },
+    {
+        "url": "http://codeforces.com/contest/227/problem/E",
+        "difficulty": 0.9992418498862775
+    },
+    {
+        "url": "http://codeforces.com/contest/347/problem/A",
+        "difficulty": 0.32124616956077634
+    },
+    {
+        "url": "http://codeforces.com/contest/347/problem/B",
+        "difficulty": 0.28243105209397346
+    },
+    {
+        "url": "http://codeforces.com/contest/347/problem/C",
+        "difficulty": 0.7849846782431052
+    },
+    {
+        "url": "http://codeforces.com/contest/347/problem/D",
+        "difficulty": 0.9948927477017364
+    },
+    {
+        "url": "http://codeforces.com/contest/347/problem/E",
+        "difficulty": 0.9974463738508682
+    },
+    {
+        "url": "http://codeforces.com/contest/459/problem/A",
+        "difficulty": 0.4136318075509522
+    },
+    {
+        "url": "http://codeforces.com/contest/459/problem/B",
+        "difficulty": 0.4129635816906114
+    },
+    {
+        "url": "http://codeforces.com/contest/459/problem/C",
+        "difficulty": 0.8987637821583695
+    },
+    {
+        "url": "http://codeforces.com/contest/459/problem/D",
+        "difficulty": 0.9024390243902439
+    },
+    {
+        "url": "http://codeforces.com/contest/459/problem/E",
+        "difficulty": 0.9809555629802873
+    },
+    {
+        "url": "http://codeforces.com/contest/447/problem/A",
+        "difficulty": 0.1078971533516988
+    },
+    {
+        "url": "http://codeforces.com/contest/447/problem/B",
+        "difficulty": 0.14967860422405876
+    },
+    {
+        "url": "http://codeforces.com/contest/447/problem/C",
+        "difficulty": 0.8627180899908172
+    },
+    {
+        "url": "http://codeforces.com/contest/447/problem/D",
+        "difficulty": 0.9788797061524335
+    },
+    {
+        "url": "http://codeforces.com/contest/447/problem/E",
+        "difficulty": 0.9977043158861341
+    },
+    {
+        "url": "http://codeforces.com/contest/466/problem/A",
+        "difficulty": 0.3391833810888252
+    },
+    {
+        "url": "http://codeforces.com/contest/466/problem/B",
+        "difficulty": 0.9502148997134671
+    },
+    {
+        "url": "http://codeforces.com/contest/466/problem/C",
+        "difficulty": 0.833810888252149
+    },
+    {
+        "url": "http://codeforces.com/contest/466/problem/D",
+        "difficulty": 0.9863896848137536
+    },
+    {
+        "url": "http://codeforces.com/contest/466/problem/E",
+        "difficulty": 0.9939111747851003
+    },
+    {
+        "url": "http://codeforces.com/contest/358/problem/A",
+        "difficulty": 0.598421052631579
+    },
+    {
+        "url": "http://codeforces.com/contest/358/problem/B",
+        "difficulty": 0.6731578947368422
+    },
+    {
+        "url": "http://codeforces.com/contest/358/problem/C",
+        "difficulty": 0.9347368421052632
+    },
+    {
+        "url": "http://codeforces.com/contest/358/problem/D",
+        "difficulty": 0.9410526315789474
+    },
+    {
+        "url": "http://codeforces.com/contest/358/problem/E",
+        "difficulty": 0.9968421052631579
+    },
+    {
+        "url": "http://codeforces.com/contest/149/problem/A",
+        "difficulty": 0.15812917594654785
+    },
+    {
+        "url": "http://codeforces.com/contest/149/problem/B",
+        "difficulty": 0.7646622123236823
+    },
+    {
+        "url": "http://codeforces.com/contest/149/problem/C",
+        "difficulty": 0.6547884187082406
+    },
+    {
+        "url": "http://codeforces.com/contest/149/problem/D",
+        "difficulty": 0.9769858945805494
+    },
+    {
+        "url": "http://codeforces.com/contest/149/problem/E",
+        "difficulty": 0.9910913140311804
+    },
+    {
+        "url": "http://codeforces.com/contest/152/problem/A",
+        "difficulty": 0.14126984126984132
+    },
+    {
+        "url": "http://codeforces.com/contest/152/problem/B",
+        "difficulty": 0.35317460317460314
+    },
+    {
+        "url": "http://codeforces.com/contest/152/problem/C",
+        "difficulty": 0.45238095238095233
+    },
+    {
+        "url": "http://codeforces.com/contest/152/problem/D",
+        "difficulty": 0.9992063492063492
+    },
+    {
+        "url": "http://codeforces.com/contest/152/problem/E",
+        "difficulty": 0.9976190476190476
+    },
+    {
+        "url": "http://codeforces.com/contest/237/problem/A",
+        "difficulty": 0.25331794575879973
+    },
+    {
+        "url": "http://codeforces.com/contest/237/problem/B",
+        "difficulty": 0.6099249855741489
+    },
+    {
+        "url": "http://codeforces.com/contest/237/problem/C",
+        "difficulty": 0.6993652625504905
+    },
+    {
+        "url": "http://codeforces.com/contest/237/problem/D",
+        "difficulty": 0.9751875360646278
+    },
+    {
+        "url": "http://codeforces.com/contest/237/problem/E",
+        "difficulty": 0.9682631275245239
+    },
+    {
+        "url": "http://codeforces.com/contest/313/problem/A",
+        "difficulty": 0.12516046213093712
+    },
+    {
+        "url": "http://codeforces.com/contest/313/problem/B",
+        "difficulty": 0.2830551989730423
+    },
+    {
+        "url": "http://codeforces.com/contest/313/problem/C",
+        "difficulty": 0.6033376123234917
+    },
+    {
+        "url": "http://codeforces.com/contest/313/problem/D",
+        "difficulty": 0.9768934531450577
+    },
+    {
+        "url": "http://codeforces.com/contest/313/problem/E",
+        "difficulty": 0.9955070603337612
+    },
+    {
+        "url": "http://codeforces.com/contest/400/problem/A",
+        "difficulty": 0.17251461988304095
+    },
+    {
+        "url": "http://codeforces.com/contest/400/problem/B",
+        "difficulty": 0.36432748538011694
+    },
+    {
+        "url": "http://codeforces.com/contest/400/problem/C",
+        "difficulty": 0.6666666666666667
+    },
+    {
+        "url": "http://codeforces.com/contest/400/problem/D",
+        "difficulty": 0.9678362573099415
+    },
+    {
+        "url": "http://codeforces.com/contest/400/problem/E",
+        "difficulty": 0.9894736842105263
+    },
+    {
+        "url": "http://codeforces.com/contest/266/problem/A",
+        "difficulty": 0.027068437180796767
+    },
+    {
+        "url": "http://codeforces.com/contest/266/problem/B",
+        "difficulty": 0.09039836567926451
+    },
+    {
+        "url": "http://codeforces.com/contest/266/problem/C",
+        "difficulty": 0.9606741573033708
+    },
+    {
+        "url": "http://codeforces.com/contest/266/problem/D",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/266/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/225/problem/A",
+        "difficulty": 0.20771929824561408
+    },
+    {
+        "url": "http://codeforces.com/contest/225/problem/B",
+        "difficulty": 0.6905263157894737
+    },
+    {
+        "url": "http://codeforces.com/contest/225/problem/C",
+        "difficulty": 0.8217543859649123
+    },
+    {
+        "url": "http://codeforces.com/contest/225/problem/D",
+        "difficulty": 0.9936842105263158
+    },
+    {
+        "url": "http://codeforces.com/contest/225/problem/E",
+        "difficulty": 0.9768421052631578
+    },
+    {
+        "url": "http://codeforces.com/contest/465/problem/A",
+        "difficulty": 0.10184473481936973
+    },
+    {
+        "url": "http://codeforces.com/contest/465/problem/B",
+        "difficulty": 0.1810146041506533
+    },
+    {
+        "url": "http://codeforces.com/contest/465/problem/C",
+        "difficulty": 0.8551114527286703
+    },
+    {
+        "url": "http://codeforces.com/contest/465/problem/D",
+        "difficulty": 0.990392006149116
+    },
+    {
+        "url": "http://codeforces.com/contest/465/problem/E",
+        "difficulty": 0.995772482705611
+    },
+    {
+        "url": "http://codeforces.com/contest/435/problem/A",
+        "difficulty": 0.18797758532857867
+    },
+    {
+        "url": "http://codeforces.com/contest/435/problem/B",
+        "difficulty": 0.5741212429954152
+    },
+    {
+        "url": "http://codeforces.com/contest/435/problem/C",
+        "difficulty": 0.7310239429444727
+    },
+    {
+        "url": "http://codeforces.com/contest/435/problem/D",
+        "difficulty": 0.9836984207845135
+    },
+    {
+        "url": "http://codeforces.com/contest/435/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/268/problem/A",
+        "difficulty": 0.037725823591923446
+    },
+    {
+        "url": "http://codeforces.com/contest/268/problem/B",
+        "difficulty": 0.1402763018065888
+    },
+    {
+        "url": "http://codeforces.com/contest/268/problem/C",
+        "difficulty": 0.6333687566418704
+    },
+    {
+        "url": "http://codeforces.com/contest/268/problem/D",
+        "difficulty": 0.9984059511158342
+    },
+    {
+        "url": "http://codeforces.com/contest/268/problem/E",
+        "difficulty": 0.9707757704569607
+    },
+    {
+        "url": "http://codeforces.com/contest/545/problem/A",
+        "difficulty": 0.11712668082094835
+    },
+    {
+        "url": "http://codeforces.com/contest/545/problem/B",
+        "difficulty": 0.30573248407643316
+    },
+    {
+        "url": "http://codeforces.com/contest/545/problem/C",
+        "difficulty": 0.6411889596602973
+    },
+    {
+        "url": "http://codeforces.com/contest/545/problem/D",
+        "difficulty": 0.46496815286624205
+    },
+    {
+        "url": "http://codeforces.com/contest/545/problem/E",
+        "difficulty": 0.9681528662420382
+    },
+    {
+        "url": "http://codeforces.com/contest/451/problem/A",
+        "difficulty": 0.1104065647146587
+    },
+    {
+        "url": "http://codeforces.com/contest/451/problem/B",
+        "difficulty": 0.505781424841477
+    },
+    {
+        "url": "http://codeforces.com/contest/451/problem/C",
+        "difficulty": 0.8023125699365908
+    },
+    {
+        "url": "http://codeforces.com/contest/451/problem/D",
+        "difficulty": 0.9544945915703096
+    },
+    {
+        "url": "http://codeforces.com/contest/451/problem/E",
+        "difficulty": 0.9936590824319284
+    },
+    {
+        "url": "http://codeforces.com/contest/231/problem/A",
+        "difficulty": 0.02122498483929658
+    },
+    {
+        "url": "http://codeforces.com/contest/231/problem/B",
+        "difficulty": 0.6670709520921771
+    },
+    {
+        "url": "http://codeforces.com/contest/231/problem/C",
+        "difficulty": 0.8483929654335961
+    },
+    {
+        "url": "http://codeforces.com/contest/231/problem/D",
+        "difficulty": 0.6646452395391147
+    },
+    {
+        "url": "http://codeforces.com/contest/231/problem/E",
+        "difficulty": 0.9945421467556095
+    },
+    {
+        "url": "http://codeforces.com/contest/151/problem/A",
+        "difficulty": 0.05424696645253391
+    },
+    {
+        "url": "http://codeforces.com/contest/151/problem/B",
+        "difficulty": 0.36973590292648106
+    },
+    {
+        "url": "http://codeforces.com/contest/151/problem/C",
+        "difficulty": 0.7787294789436117
+    },
+    {
+        "url": "http://codeforces.com/contest/151/problem/D",
+        "difficulty": 0.9064953604568166
+    },
+    {
+        "url": "http://codeforces.com/contest/151/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/218/problem/A",
+        "difficulty": 0.19787045252883761
+    },
+    {
+        "url": "http://codeforces.com/contest/218/problem/B",
+        "difficulty": 0.16858917480035496
+    },
+    {
+        "url": "http://codeforces.com/contest/218/problem/C",
+        "difficulty": 0.5456965394853593
+    },
+    {
+        "url": "http://codeforces.com/contest/218/problem/D",
+        "difficulty": 0.9840283939662822
+    },
+    {
+        "url": "http://codeforces.com/contest/218/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/469/problem/A",
+        "difficulty": 0.11836734693877549
+    },
+    {
+        "url": "http://codeforces.com/contest/469/problem/B",
+        "difficulty": 0.4066790352504638
+    },
+    {
+        "url": "http://codeforces.com/contest/469/problem/C",
+        "difficulty": 0.7521335807050092
+    },
+    {
+        "url": "http://codeforces.com/contest/469/problem/D",
+        "difficulty": 0.9933209647495361
+    },
+    {
+        "url": "http://codeforces.com/contest/469/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/155/problem/A",
+        "difficulty": 0.04598597038191743
+    },
+    {
+        "url": "http://codeforces.com/contest/155/problem/B",
+        "difficulty": 0.2634450506625098
+    },
+    {
+        "url": "http://codeforces.com/contest/155/problem/C",
+        "difficulty": 0.818394388152767
+    },
+    {
+        "url": "http://codeforces.com/contest/155/problem/D",
+        "difficulty": 0.8932190179267342
+    },
+    {
+        "url": "http://codeforces.com/contest/155/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/157/problem/A",
+        "difficulty": 0.19190140845070425
+    },
+    {
+        "url": "http://codeforces.com/contest/157/problem/B",
+        "difficulty": 0.1338028169014085
+    },
+    {
+        "url": "http://codeforces.com/contest/157/problem/C",
+        "difficulty": 0.8433098591549295
+    },
+    {
+        "url": "http://codeforces.com/contest/157/problem/D",
+        "difficulty": 0.9084507042253521
+    },
+    {
+        "url": "http://codeforces.com/contest/157/problem/E",
+        "difficulty": 0.9797535211267605
+    },
+    {
+        "url": "http://codeforces.com/contest/361/problem/A",
+        "difficulty": 0.0673642903858731
+    },
+    {
+        "url": "http://codeforces.com/contest/361/problem/B",
+        "difficulty": 0.3342053629823414
+    },
+    {
+        "url": "http://codeforces.com/contest/361/problem/C",
+        "difficulty": 0.9287115761935906
+    },
+    {
+        "url": "http://codeforces.com/contest/361/problem/D",
+        "difficulty": 0.9960758665794637
+    },
+    {
+        "url": "http://codeforces.com/contest/361/problem/E",
+        "difficulty": 0.999345977763244
+    },
+    {
+        "url": "http://codeforces.com/contest/259/problem/A",
+        "difficulty": 0.1390041493775933
+    },
+    {
+        "url": "http://codeforces.com/contest/259/problem/B",
+        "difficulty": 0.19363762102351312
+    },
+    {
+        "url": "http://codeforces.com/contest/259/problem/C",
+        "difficulty": 0.2365145228215768
+    },
+    {
+        "url": "http://codeforces.com/contest/259/problem/D",
+        "difficulty": 0.9840940525587829
+    },
+    {
+        "url": "http://codeforces.com/contest/259/problem/E",
+        "difficulty": 0.9986168741355463
+    },
+    {
+        "url": "http://codeforces.com/contest/194/problem/A",
+        "difficulty": 0.11737523105360448
+    },
+    {
+        "url": "http://codeforces.com/contest/194/problem/B",
+        "difficulty": 0.3373382624768947
+    },
+    {
+        "url": "http://codeforces.com/contest/194/problem/C",
+        "difficulty": 0.9048059149722736
+    },
+    {
+        "url": "http://codeforces.com/contest/194/problem/D",
+        "difficulty": 0.9852125693160814
+    },
+    {
+        "url": "http://codeforces.com/contest/194/problem/E",
+        "difficulty": 0.9972273567467652
+    },
+    {
+        "url": "http://codeforces.com/contest/242/problem/A",
+        "difficulty": 0.19616519174041303
+    },
+    {
+        "url": "http://codeforces.com/contest/242/problem/B",
+        "difficulty": 0.24188790560471973
+    },
+    {
+        "url": "http://codeforces.com/contest/242/problem/C",
+        "difficulty": 0.8480825958702065
+    },
+    {
+        "url": "http://codeforces.com/contest/242/problem/D",
+        "difficulty": 0.9623893805309734
+    },
+    {
+        "url": "http://codeforces.com/contest/242/problem/E",
+        "difficulty": 0.971976401179941
+    },
+    {
+        "url": "http://codeforces.com/contest/408/problem/A",
+        "difficulty": 0.05114503816793892
+    },
+    {
+        "url": "http://codeforces.com/contest/408/problem/B",
+        "difficulty": 0.2763358778625954
+    },
+    {
+        "url": "http://codeforces.com/contest/408/problem/C",
+        "difficulty": 0.8458015267175573
+    },
+    {
+        "url": "http://codeforces.com/contest/408/problem/D",
+        "difficulty": 0.8885496183206107
+    },
+    {
+        "url": "http://codeforces.com/contest/408/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/417/problem/A",
+        "difficulty": 0.6997635933806147
+    },
+    {
+        "url": "http://codeforces.com/contest/417/problem/B",
+        "difficulty": 0.644602048857368
+    },
+    {
+        "url": "http://codeforces.com/contest/417/problem/C",
+        "difficulty": 0.6556343577620174
+    },
+    {
+        "url": "http://codeforces.com/contest/417/problem/D",
+        "difficulty": 0.9889676910953507
+    },
+    {
+        "url": "http://codeforces.com/contest/417/problem/E",
+        "difficulty": 0.9936958234830575
+    },
+    {
+        "url": "http://codeforces.com/contest/129/problem/A",
+        "difficulty": 0.029446407538280317
+    },
+    {
+        "url": "http://codeforces.com/contest/129/problem/B",
+        "difficulty": 0.30977620730270905
+    },
+    {
+        "url": "http://codeforces.com/contest/129/problem/C",
+        "difficulty": 0.64075382803298
+    },
+    {
+        "url": "http://codeforces.com/contest/129/problem/D",
+        "difficulty": 0.983510011778563
+    },
+    {
+        "url": "http://codeforces.com/contest/129/problem/E",
+        "difficulty": 0.967020023557126
+    },
+    {
+        "url": "http://codeforces.com/contest/118/problem/A",
+        "difficulty": 0.14670138888888884
+    },
+    {
+        "url": "http://codeforces.com/contest/118/problem/B",
+        "difficulty": 0.1293402777777778
+    },
+    {
+        "url": "http://codeforces.com/contest/118/problem/C",
+        "difficulty": 0.9210069444444444
+    },
+    {
+        "url": "http://codeforces.com/contest/118/problem/D",
+        "difficulty": 0.8307291666666666
+    },
+    {
+        "url": "http://codeforces.com/contest/118/problem/E",
+        "difficulty": 0.9652777777777778
+    },
+    {
+        "url": "http://codeforces.com/contest/330/problem/A",
+        "difficulty": 0.06803069053708444
+    },
+    {
+        "url": "http://codeforces.com/contest/330/problem/B",
+        "difficulty": 0.36879795396419435
+    },
+    {
+        "url": "http://codeforces.com/contest/330/problem/C",
+        "difficulty": 0.6516624040920715
+    },
+    {
+        "url": "http://codeforces.com/contest/330/problem/D",
+        "difficulty": 0.8879795396419438
+    },
+    {
+        "url": "http://codeforces.com/contest/330/problem/E",
+        "difficulty": 0.9994884910485934
+    },
+    {
+        "url": "http://codeforces.com/contest/499/problem/A",
+        "difficulty": 0.20621359223300972
+    },
+    {
+        "url": "http://codeforces.com/contest/499/problem/B",
+        "difficulty": 0.1766990291262136
+    },
+    {
+        "url": "http://codeforces.com/contest/499/problem/C",
+        "difficulty": 0.7615533980582524
+    },
+    {
+        "url": "http://codeforces.com/contest/499/problem/D",
+        "difficulty": 0.9988349514563106
+    },
+    {
+        "url": "http://codeforces.com/contest/499/problem/E",
+        "difficulty": 0.996116504854369
+    },
+    {
+        "url": "http://codeforces.com/contest/443/problem/A",
+        "difficulty": 0.05633802816901412
+    },
+    {
+        "url": "http://codeforces.com/contest/443/problem/B",
+        "difficulty": 0.6296296296296297
+    },
+    {
+        "url": "http://codeforces.com/contest/443/problem/C",
+        "difficulty": 0.9707876890975482
+    },
+    {
+        "url": "http://codeforces.com/contest/443/problem/D",
+        "difficulty": 0.9160146061554513
+    },
+    {
+        "url": "http://codeforces.com/contest/443/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/239/problem/A",
+        "difficulty": 0.3418803418803419
+    },
+    {
+        "url": "http://codeforces.com/contest/239/problem/B",
+        "difficulty": 0.7393162393162394
+    },
+    {
+        "url": "http://codeforces.com/contest/239/problem/C",
+        "difficulty": 0.853988603988604
+    },
+    {
+        "url": "http://codeforces.com/contest/239/problem/D",
+        "difficulty": 0.9864672364672364
+    },
+    {
+        "url": "http://codeforces.com/contest/239/problem/E",
+        "difficulty": 0.9914529914529915
+    },
+    {
+        "url": "http://codeforces.com/contest/339/problem/A",
+        "difficulty": 0.051830718021873556
+    },
+    {
+        "url": "http://codeforces.com/contest/339/problem/B",
+        "difficulty": 0.18544935805991436
+    },
+    {
+        "url": "http://codeforces.com/contest/339/problem/C",
+        "difficulty": 0.854493580599144
+    },
+    {
+        "url": "http://codeforces.com/contest/339/problem/D",
+        "difficulty": 0.7608178792201616
+    },
+    {
+        "url": "http://codeforces.com/contest/339/problem/E",
+        "difficulty": 0.9990489776509748
+    },
+    {
+        "url": "http://codeforces.com/contest/127/problem/A",
+        "difficulty": 0.06045340050377834
+    },
+    {
+        "url": "http://codeforces.com/contest/127/problem/B",
+        "difficulty": 0.23425692695214106
+    },
+    {
+        "url": "http://codeforces.com/contest/127/problem/C",
+        "difficulty": 0.9655751469353484
+    },
+    {
+        "url": "http://codeforces.com/contest/127/problem/D",
+        "difficulty": 0.9135180520570949
+    },
+    {
+        "url": "http://codeforces.com/contest/127/problem/E",
+        "difficulty": 0.9832073887489504
+    },
+    {
+        "url": "http://codeforces.com/contest/186/problem/A",
+        "difficulty": 0.369036903690369
+    },
+    {
+        "url": "http://codeforces.com/contest/186/problem/B",
+        "difficulty": 0.3978397839783978
+    },
+    {
+        "url": "http://codeforces.com/contest/186/problem/C",
+        "difficulty": 0.585958595859586
+    },
+    {
+        "url": "http://codeforces.com/contest/186/problem/D",
+        "difficulty": 0.9477947794779478
+    },
+    {
+        "url": "http://codeforces.com/contest/186/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/56/problem/A",
+        "difficulty": 0.2798982188295165
+    },
+    {
+        "url": "http://codeforces.com/contest/56/problem/B",
+        "difficulty": 0.4936386768447837
+    },
+    {
+        "url": "http://codeforces.com/contest/56/problem/C",
+        "difficulty": 0.8600508905852418
+    },
+    {
+        "url": "http://codeforces.com/contest/56/problem/D",
+        "difficulty": 0.9694656488549618
+    },
+    {
+        "url": "http://codeforces.com/contest/56/problem/E",
+        "difficulty": 0.9872773536895675
+    },
+    {
+        "url": "http://codeforces.com/contest/63/problem/A",
+        "difficulty": 0.12189054726368154
+    },
+    {
+        "url": "http://codeforces.com/contest/63/problem/B",
+        "difficulty": 0.29104477611940294
+    },
+    {
+        "url": "http://codeforces.com/contest/63/problem/C",
+        "difficulty": 0.8681592039800995
+    },
+    {
+        "url": "http://codeforces.com/contest/63/problem/D",
+        "difficulty": 0.9303482587064676
+    },
+    {
+        "url": "http://codeforces.com/contest/63/problem/E",
+        "difficulty": 0.9800995024875622
+    },
+    {
+        "url": "http://codeforces.com/contest/426/problem/A",
+        "difficulty": 0.06827545615067687
+    },
+    {
+        "url": "http://codeforces.com/contest/426/problem/B",
+        "difficulty": 0.42613301942319015
+    },
+    {
+        "url": "http://codeforces.com/contest/426/problem/C",
+        "difficulty": 0.8310771041789288
+    },
+    {
+        "url": "http://codeforces.com/contest/426/problem/D",
+        "difficulty": 0.9988228369629194
+    },
+    {
+        "url": "http://codeforces.com/contest/426/problem/E",
+        "difficulty": 0.9976456739258387
+    },
+    {
+        "url": "http://codeforces.com/contest/260/problem/A",
+        "difficulty": 0.4745011086474501
+    },
+    {
+        "url": "http://codeforces.com/contest/260/problem/B",
+        "difficulty": 0.7450110864745011
+    },
+    {
+        "url": "http://codeforces.com/contest/260/problem/C",
+        "difficulty": 0.7997043606799704
+    },
+    {
+        "url": "http://codeforces.com/contest/260/problem/D",
+        "difficulty": 0.9896526237989652
+    },
+    {
+        "url": "http://codeforces.com/contest/260/problem/E",
+        "difficulty": 0.9992609016999261
+    },
+    {
+        "url": "http://codeforces.com/contest/250/problem/A",
+        "difficulty": 0.17263427109974427
+    },
+    {
+        "url": "http://codeforces.com/contest/250/problem/B",
+        "difficulty": 0.5383631713554987
+    },
+    {
+        "url": "http://codeforces.com/contest/250/problem/C",
+        "difficulty": 0.6278772378516624
+    },
+    {
+        "url": "http://codeforces.com/contest/250/problem/D",
+        "difficulty": 0.9475703324808185
+    },
+    {
+        "url": "http://codeforces.com/contest/250/problem/E",
+        "difficulty": 0.989769820971867
+    },
+    {
+        "url": "http://codeforces.com/contest/169/problem/A",
+        "difficulty": 0.05099150141643061
+    },
+    {
+        "url": "http://codeforces.com/contest/169/problem/B",
+        "difficulty": 0.2521246458923513
+    },
+    {
+        "url": "http://codeforces.com/contest/169/problem/C",
+        "difficulty": 0.9164305949008499
+    },
+    {
+        "url": "http://codeforces.com/contest/169/problem/D",
+        "difficulty": 0.9957507082152974
+    },
+    {
+        "url": "http://codeforces.com/contest/169/problem/E",
+        "difficulty": 0.9915014164305949
+    },
+    {
+        "url": "http://codeforces.com/contest/462/problem/A",
+        "difficulty": 0.2042893493275173
+    },
+    {
+        "url": "http://codeforces.com/contest/462/problem/B",
+        "difficulty": 0.4747364594692839
+    },
+    {
+        "url": "http://codeforces.com/contest/462/problem/C",
+        "difficulty": 0.4071246819338422
+    },
+    {
+        "url": "http://codeforces.com/contest/462/problem/D",
+        "difficulty": 0.9894583787713559
+    },
+    {
+        "url": "http://codeforces.com/contest/462/problem/E",
+        "difficulty": 0.9989094874591058
+    },
+    {
+        "url": "http://codeforces.com/contest/92/problem/A",
+        "difficulty": 0.050135501355013545
+    },
+    {
+        "url": "http://codeforces.com/contest/92/problem/B",
+        "difficulty": 0.36585365853658536
+    },
+    {
+        "url": "http://codeforces.com/contest/92/problem/C",
+        "difficulty": 0.7493224932249323
+    },
+    {
+        "url": "http://codeforces.com/contest/92/problem/D",
+        "difficulty": 0.8265582655826558
+    },
+    {
+        "url": "http://codeforces.com/contest/92/problem/E",
+        "difficulty": 0.9905149051490515
+    },
+    {
+        "url": "http://codeforces.com/contest/421/problem/A",
+        "difficulty": 0.055055055055055035
+    },
+    {
+        "url": "http://codeforces.com/contest/421/problem/B",
+        "difficulty": 0.14714714714714716
+    },
+    {
+        "url": "http://codeforces.com/contest/421/problem/C",
+        "difficulty": 0.9329329329329329
+    },
+    {
+        "url": "http://codeforces.com/contest/421/problem/D",
+        "difficulty": 0.96996996996997
+    },
+    {
+        "url": "http://codeforces.com/contest/421/problem/E",
+        "difficulty": 0.996996996996997
+    },
+    {
+        "url": "http://codeforces.com/contest/200/problem/A",
+        "difficulty": 0.998158379373849
+    },
+    {
+        "url": "http://codeforces.com/contest/200/problem/B",
+        "difficulty": 0.028545119705340682
+    },
+    {
+        "url": "http://codeforces.com/contest/200/problem/C",
+        "difficulty": 0.8766114180478821
+    },
+    {
+        "url": "http://codeforces.com/contest/200/problem/D",
+        "difficulty": 0.8149171270718232
+    },
+    {
+        "url": "http://codeforces.com/contest/200/problem/E",
+        "difficulty": 0.9990791896869244
+    },
+    {
+        "url": "http://codeforces.com/contest/376/problem/A",
+        "difficulty": 0.14178168130489333
+    },
+    {
+        "url": "http://codeforces.com/contest/376/problem/B",
+        "difficulty": 0.40025094102885816
+    },
+    {
+        "url": "http://codeforces.com/contest/376/problem/C",
+        "difficulty": 0.8914680050188206
+    },
+    {
+        "url": "http://codeforces.com/contest/376/problem/D",
+        "difficulty": 0.944792973651192
+    },
+    {
+        "url": "http://codeforces.com/contest/376/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/441/problem/A",
+        "difficulty": 0.11366061899679825
+    },
+    {
+        "url": "http://codeforces.com/contest/441/problem/B",
+        "difficulty": 0.48399146211312705
+    },
+    {
+        "url": "http://codeforces.com/contest/441/problem/C",
+        "difficulty": 0.6152614727854856
+    },
+    {
+        "url": "http://codeforces.com/contest/441/problem/D",
+        "difficulty": 0.9882604055496265
+    },
+    {
+        "url": "http://codeforces.com/contest/441/problem/E",
+        "difficulty": 0.9994663820704376
+    },
+    {
+        "url": "http://codeforces.com/contest/287/problem/A",
+        "difficulty": 0.24264705882352944
+    },
+    {
+        "url": "http://codeforces.com/contest/287/problem/B",
+        "difficulty": 0.7808823529411765
+    },
+    {
+        "url": "http://codeforces.com/contest/287/problem/C",
+        "difficulty": 0.7205882352941176
+    },
+    {
+        "url": "http://codeforces.com/contest/287/problem/D",
+        "difficulty": 0.9941176470588236
+    },
+    {
+        "url": "http://codeforces.com/contest/287/problem/E",
+        "difficulty": 0.9926470588235294
+    },
+    {
+        "url": "http://codeforces.com/contest/102/problem/A",
+        "difficulty": 0.34508076358296624
+    },
+    {
+        "url": "http://codeforces.com/contest/102/problem/B",
+        "difficulty": 0.17180616740088106
+    },
+    {
+        "url": "http://codeforces.com/contest/102/problem/C",
+        "difficulty": 0.4904552129221733
+    },
+    {
+        "url": "http://codeforces.com/contest/102/problem/D",
+        "difficulty": 0.9515418502202643
+    },
+    {
+        "url": "http://codeforces.com/contest/102/problem/E",
+        "difficulty": 0.9882525697503671
+    },
+    {
+        "url": "http://codeforces.com/contest/515/problem/A",
+        "difficulty": 0.2094086899705978
+    },
+    {
+        "url": "http://codeforces.com/contest/515/problem/B",
+        "difficulty": 0.6553413917020581
+    },
+    {
+        "url": "http://codeforces.com/contest/515/problem/C",
+        "difficulty": 0.6020908199934663
+    },
+    {
+        "url": "http://codeforces.com/contest/515/problem/D",
+        "difficulty": 0.9879124469127736
+    },
+    {
+        "url": "http://codeforces.com/contest/515/problem/E",
+        "difficulty": 0.9986932375040837
+    },
+    {
+        "url": "http://codeforces.com/contest/456/problem/A",
+        "difficulty": 0.32157755024649226
+    },
+    {
+        "url": "http://codeforces.com/contest/456/problem/B",
+        "difficulty": 0.3151308304891922
+    },
+    {
+        "url": "http://codeforces.com/contest/456/problem/C",
+        "difficulty": 0.7356844899507016
+    },
+    {
+        "url": "http://codeforces.com/contest/456/problem/D",
+        "difficulty": 0.9859689040576413
+    },
+    {
+        "url": "http://codeforces.com/contest/456/problem/E",
+        "difficulty": 0.9946909366704588
+    },
+    {
+        "url": "http://codeforces.com/contest/505/problem/A",
+        "difficulty": 0.3318540433925049
+    },
+    {
+        "url": "http://codeforces.com/contest/505/problem/B",
+        "difficulty": 0.5340236686390533
+    },
+    {
+        "url": "http://codeforces.com/contest/505/problem/C",
+        "difficulty": 0.9797830374753451
+    },
+    {
+        "url": "http://codeforces.com/contest/505/problem/D",
+        "difficulty": 0.997534516765286
+    },
+    {
+        "url": "http://codeforces.com/contest/505/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/27/problem/A",
+        "difficulty": 0.34704370179948585
+    },
+    {
+        "url": "http://codeforces.com/contest/27/problem/B",
+        "difficulty": 0.4473007712082262
+    },
+    {
+        "url": "http://codeforces.com/contest/27/problem/C",
+        "difficulty": 0.8020565552699228
+    },
+    {
+        "url": "http://codeforces.com/contest/27/problem/D",
+        "difficulty": 0.9537275064267352
+    },
+    {
+        "url": "http://codeforces.com/contest/27/problem/E",
+        "difficulty": 0.9434447300771208
+    },
+    {
+        "url": "http://codeforces.com/contest/322/problem/A",
+        "difficulty": 0.16858702243784107
+    },
+    {
+        "url": "http://codeforces.com/contest/322/problem/B",
+        "difficulty": 0.7246816252274105
+    },
+    {
+        "url": "http://codeforces.com/contest/322/problem/C",
+        "difficulty": 0.9314736203759855
+    },
+    {
+        "url": "http://codeforces.com/contest/322/problem/D",
+        "difficulty": 0.9733171619163129
+    },
+    {
+        "url": "http://codeforces.com/contest/322/problem/E",
+        "difficulty": 0.9963614311704063
+    },
+    {
+        "url": "http://codeforces.com/contest/246/problem/A",
+        "difficulty": 0.09212376933895916
+    },
+    {
+        "url": "http://codeforces.com/contest/246/problem/B",
+        "difficulty": 0.33544303797468356
+    },
+    {
+        "url": "http://codeforces.com/contest/246/problem/C",
+        "difficulty": 0.790436005625879
+    },
+    {
+        "url": "http://codeforces.com/contest/246/problem/D",
+        "difficulty": 0.7770745428973277
+    },
+    {
+        "url": "http://codeforces.com/contest/246/problem/E",
+        "difficulty": 0.9992967651195499
+    },
+    {
+        "url": "http://codeforces.com/contest/300/problem/A",
+        "difficulty": 0.21977287909151633
+    },
+    {
+        "url": "http://codeforces.com/contest/300/problem/B",
+        "difficulty": 0.6506346025384102
+    },
+    {
+        "url": "http://codeforces.com/contest/300/problem/C",
+        "difficulty": 0.8790915163660654
+    },
+    {
+        "url": "http://codeforces.com/contest/300/problem/D",
+        "difficulty": 0.9986639946559787
+    },
+    {
+        "url": "http://codeforces.com/contest/300/problem/E",
+        "difficulty": 0.9906479625918504
+    },
+    {
+        "url": "http://codeforces.com/contest/315/problem/A",
+        "difficulty": 0.5495436766623207
+    },
+    {
+        "url": "http://codeforces.com/contest/315/problem/B",
+        "difficulty": 0.30378096479791394
+    },
+    {
+        "url": "http://codeforces.com/contest/315/problem/C",
+        "difficulty": 0.8265971316818774
+    },
+    {
+        "url": "http://codeforces.com/contest/315/problem/D",
+        "difficulty": 0.9889178617992177
+    },
+    {
+        "url": "http://codeforces.com/contest/315/problem/E",
+        "difficulty": 0.9954367666232073
+    },
+    {
+        "url": "http://codeforces.com/contest/139/problem/A",
+        "difficulty": 0.20213713268032052
+    },
+    {
+        "url": "http://codeforces.com/contest/139/problem/B",
+        "difficulty": 0.674087266251113
+    },
+    {
+        "url": "http://codeforces.com/contest/139/problem/C",
+        "difficulty": 0.7649154051647373
+    },
+    {
+        "url": "http://codeforces.com/contest/139/problem/D",
+        "difficulty": 0.981300089047195
+    },
+    {
+        "url": "http://codeforces.com/contest/139/problem/E",
+        "difficulty": 0.9982190560997328
+    },
+    {
+        "url": "http://codeforces.com/contest/312/problem/A",
+        "difficulty": 0.3674074074074074
+    },
+    {
+        "url": "http://codeforces.com/contest/312/problem/B",
+        "difficulty": 0.43481481481481477
+    },
+    {
+        "url": "http://codeforces.com/contest/312/problem/C",
+        "difficulty": 0.5051851851851852
+    },
+    {
+        "url": "http://codeforces.com/contest/312/problem/D",
+        "difficulty": 0.9992592592592593
+    },
+    {
+        "url": "http://codeforces.com/contest/312/problem/E",
+        "difficulty": 0.9992592592592593
+    },
+    {
+        "url": "http://codeforces.com/contest/78/problem/A",
+        "difficulty": 0.0953846153846154
+    },
+    {
+        "url": "http://codeforces.com/contest/78/problem/B",
+        "difficulty": 0.20461538461538464
+    },
+    {
+        "url": "http://codeforces.com/contest/78/problem/C",
+        "difficulty": 0.94
+    },
+    {
+        "url": "http://codeforces.com/contest/78/problem/D",
+        "difficulty": 0.9953846153846154
+    },
+    {
+        "url": "http://codeforces.com/contest/78/problem/E",
+        "difficulty": 0.9969230769230769
+    },
+    {
+        "url": "http://codeforces.com/contest/471/problem/A",
+        "difficulty": 0.32896551724137935
+    },
+    {
+        "url": "http://codeforces.com/contest/471/problem/B",
+        "difficulty": 0.4955172413793103
+    },
+    {
+        "url": "http://codeforces.com/contest/471/problem/C",
+        "difficulty": 0.8096551724137931
+    },
+    {
+        "url": "http://codeforces.com/contest/471/problem/D",
+        "difficulty": 0.9396551724137931
+    },
+    {
+        "url": "http://codeforces.com/contest/471/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/294/problem/A",
+        "difficulty": 0.07007125890736343
+    },
+    {
+        "url": "http://codeforces.com/contest/294/problem/B",
+        "difficulty": 0.8402612826603325
+    },
+    {
+        "url": "http://codeforces.com/contest/294/problem/C",
+        "difficulty": 0.8990498812351544
+    },
+    {
+        "url": "http://codeforces.com/contest/294/problem/D",
+        "difficulty": 0.998812351543943
+    },
+    {
+        "url": "http://codeforces.com/contest/294/problem/E",
+        "difficulty": 0.9970308788598575
+    },
+    {
+        "url": "http://codeforces.com/contest/281/problem/A",
+        "difficulty": 0.03769520732364029
+    },
+    {
+        "url": "http://codeforces.com/contest/281/problem/B",
+        "difficulty": 0.8314485729671514
+    },
+    {
+        "url": "http://codeforces.com/contest/281/problem/C",
+        "difficulty": 0.9789983844911146
+    },
+    {
+        "url": "http://codeforces.com/contest/281/problem/D",
+        "difficulty": 0.9773828756058158
+    },
+    {
+        "url": "http://codeforces.com/contest/281/problem/E",
+        "difficulty": 0.9973074851911685
+    },
+    {
+        "url": "http://codeforces.com/contest/222/problem/A",
+        "difficulty": 0.3196223870532704
+    },
+    {
+        "url": "http://codeforces.com/contest/222/problem/B",
+        "difficulty": 0.41807147673634526
+    },
+    {
+        "url": "http://codeforces.com/contest/222/problem/C",
+        "difficulty": 0.9824679703304113
+    },
+    {
+        "url": "http://codeforces.com/contest/222/problem/D",
+        "difficulty": 0.8698583951449764
+    },
+    {
+        "url": "http://codeforces.com/contest/222/problem/E",
+        "difficulty": 0.9460552933243426
+    },
+    {
+        "url": "http://codeforces.com/contest/96/problem/A",
+        "difficulty": 0.15311004784688997
+    },
+    {
+        "url": "http://codeforces.com/contest/96/problem/B",
+        "difficulty": 0.4593301435406698
+    },
+    {
+        "url": "http://codeforces.com/contest/96/problem/C",
+        "difficulty": 0.8325358851674641
+    },
+    {
+        "url": "http://codeforces.com/contest/96/problem/D",
+        "difficulty": 0.9425837320574163
+    },
+    {
+        "url": "http://codeforces.com/contest/96/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/202/problem/A",
+        "difficulty": 0.08814589665653494
+    },
+    {
+        "url": "http://codeforces.com/contest/202/problem/B",
+        "difficulty": 0.7973657548125633
+    },
+    {
+        "url": "http://codeforces.com/contest/202/problem/C",
+        "difficulty": 0.8135764944275583
+    },
+    {
+        "url": "http://codeforces.com/contest/202/problem/D",
+        "difficulty": 0.9797365754812564
+    },
+    {
+        "url": "http://codeforces.com/contest/202/problem/E",
+        "difficulty": 0.9918946301925026
+    },
+    {
+        "url": "http://codeforces.com/contest/236/problem/A",
+        "difficulty": 0.049215406562054254
+    },
+    {
+        "url": "http://codeforces.com/contest/236/problem/B",
+        "difficulty": 0.4101283880171184
+    },
+    {
+        "url": "http://codeforces.com/contest/236/problem/C",
+        "difficulty": 0.723965763195435
+    },
+    {
+        "url": "http://codeforces.com/contest/236/problem/D",
+        "difficulty": 0.985734664764622
+    },
+    {
+        "url": "http://codeforces.com/contest/236/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/296/problem/A",
+        "difficulty": 0.278441231929604
+    },
+    {
+        "url": "http://codeforces.com/contest/296/problem/B",
+        "difficulty": 0.9258328095537398
+    },
+    {
+        "url": "http://codeforces.com/contest/296/problem/C",
+        "difficulty": 0.7209302325581395
+    },
+    {
+        "url": "http://codeforces.com/contest/296/problem/D",
+        "difficulty": 0.9566310496543055
+    },
+    {
+        "url": "http://codeforces.com/contest/296/problem/E",
+        "difficulty": 0.9987429289754871
+    },
+    {
+        "url": "http://codeforces.com/contest/80/problem/A",
+        "difficulty": 0.09491059147180192
+    },
+    {
+        "url": "http://codeforces.com/contest/80/problem/B",
+        "difficulty": 0.2200825309491059
+    },
+    {
+        "url": "http://codeforces.com/contest/80/problem/C",
+        "difficulty": 0.8019257221458047
+    },
+    {
+        "url": "http://codeforces.com/contest/80/problem/D",
+        "difficulty": 0.9078404401650619
+    },
+    {
+        "url": "http://codeforces.com/contest/80/problem/E",
+        "difficulty": 0.9903713892709766
+    },
+    {
+        "url": "http://codeforces.com/contest/84/problem/A",
+        "difficulty": 0.050617283950617264
+    },
+    {
+        "url": "http://codeforces.com/contest/84/problem/B",
+        "difficulty": 0.5
+    },
+    {
+        "url": "http://codeforces.com/contest/84/problem/C",
+        "difficulty": 0.7876543209876543
+    },
+    {
+        "url": "http://codeforces.com/contest/84/problem/D",
+        "difficulty": 0.9530864197530864
+    },
+    {
+        "url": "http://codeforces.com/contest/84/problem/E",
+        "difficulty": 0.9962962962962963
+    },
+    {
+        "url": "http://codeforces.com/contest/31/problem/A",
+        "difficulty": 0.15960099750623447
+    },
+    {
+        "url": "http://codeforces.com/contest/31/problem/B",
+        "difficulty": 0.6608478802992519
+    },
+    {
+        "url": "http://codeforces.com/contest/31/problem/C",
+        "difficulty": 0.6608478802992519
+    },
+    {
+        "url": "http://codeforces.com/contest/31/problem/D",
+        "difficulty": 0.8977556109725686
+    },
+    {
+        "url": "http://codeforces.com/contest/31/problem/E",
+        "difficulty": 0.9875311720698254
+    },
+    {
+        "url": "http://codeforces.com/contest/405/problem/A",
+        "difficulty": 0.04314105671352397
+    },
+    {
+        "url": "http://codeforces.com/contest/405/problem/B",
+        "difficulty": 0.3204071740184198
+    },
+    {
+        "url": "http://codeforces.com/contest/405/problem/C",
+        "difficulty": 0.78429471643238
+    },
+    {
+        "url": "http://codeforces.com/contest/405/problem/D",
+        "difficulty": 0.9457101308773631
+    },
+    {
+        "url": "http://codeforces.com/contest/405/problem/E",
+        "difficulty": 0.998061076102763
+    },
+    {
+        "url": "http://codeforces.com/contest/199/problem/A",
+        "difficulty": 0.11091703056768554
+    },
+    {
+        "url": "http://codeforces.com/contest/199/problem/B",
+        "difficulty": 0.8986899563318778
+    },
+    {
+        "url": "http://codeforces.com/contest/199/problem/C",
+        "difficulty": 0.8567685589519651
+    },
+    {
+        "url": "http://codeforces.com/contest/199/problem/D",
+        "difficulty": 0.891703056768559
+    },
+    {
+        "url": "http://codeforces.com/contest/199/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/47/problem/A",
+        "difficulty": 0.06469002695417791
+    },
+    {
+        "url": "http://codeforces.com/contest/47/problem/B",
+        "difficulty": 0.261455525606469
+    },
+    {
+        "url": "http://codeforces.com/contest/47/problem/C",
+        "difficulty": 0.9730458221024259
+    },
+    {
+        "url": "http://codeforces.com/contest/47/problem/D",
+        "difficulty": 0.9622641509433962
+    },
+    {
+        "url": "http://codeforces.com/contest/47/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/257/problem/A",
+        "difficulty": 0.3412112259970458
+    },
+    {
+        "url": "http://codeforces.com/contest/257/problem/B",
+        "difficulty": 0.4364844903988183
+    },
+    {
+        "url": "http://codeforces.com/contest/257/problem/C",
+        "difficulty": 0.8493353028064993
+    },
+    {
+        "url": "http://codeforces.com/contest/257/problem/D",
+        "difficulty": 0.9209748892171344
+    },
+    {
+        "url": "http://codeforces.com/contest/257/problem/E",
+        "difficulty": 0.9992614475627769
+    },
+    {
+        "url": "http://codeforces.com/contest/182/problem/A",
+        "difficulty": 0.98828125
+    },
+    {
+        "url": "http://codeforces.com/contest/182/problem/B",
+        "difficulty": 0.099609375
+    },
+    {
+        "url": "http://codeforces.com/contest/182/problem/C",
+        "difficulty": 0.9892578125
+    },
+    {
+        "url": "http://codeforces.com/contest/182/problem/D",
+        "difficulty": 0.62890625
+    },
+    {
+        "url": "http://codeforces.com/contest/182/problem/E",
+        "difficulty": 0.8662109375
+    },
+    {
+        "url": "http://codeforces.com/contest/298/problem/A",
+        "difficulty": 0.3362068965517241
+    },
+    {
+        "url": "http://codeforces.com/contest/298/problem/B",
+        "difficulty": 0.3149867374005305
+    },
+    {
+        "url": "http://codeforces.com/contest/298/problem/C",
+        "difficulty": 0.7791777188328912
+    },
+    {
+        "url": "http://codeforces.com/contest/298/problem/D",
+        "difficulty": 0.8275862068965517
+    },
+    {
+        "url": "http://codeforces.com/contest/298/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/448/problem/A",
+        "difficulty": 0.09206471494607082
+    },
+    {
+        "url": "http://codeforces.com/contest/448/problem/B",
+        "difficulty": 0.5496918335901386
+    },
+    {
+        "url": "http://codeforces.com/contest/448/problem/C",
+        "difficulty": 0.938366718027735
+    },
+    {
+        "url": "http://codeforces.com/contest/448/problem/D",
+        "difficulty": 0.8936825885978428
+    },
+    {
+        "url": "http://codeforces.com/contest/448/problem/E",
+        "difficulty": 0.9919106317411402
+    },
+    {
+        "url": "http://codeforces.com/contest/205/problem/A",
+        "difficulty": 0.1663851351351351
+    },
+    {
+        "url": "http://codeforces.com/contest/205/problem/B",
+        "difficulty": 0.49746621621621623
+    },
+    {
+        "url": "http://codeforces.com/contest/205/problem/C",
+        "difficulty": 0.8175675675675675
+    },
+    {
+        "url": "http://codeforces.com/contest/205/problem/D",
+        "difficulty": 0.7719594594594594
+    },
+    {
+        "url": "http://codeforces.com/contest/205/problem/E",
+        "difficulty": 0.9932432432432432
+    },
+    {
+        "url": "http://codeforces.com/contest/137/problem/A",
+        "difficulty": 0.13434727503168564
+    },
+    {
+        "url": "http://codeforces.com/contest/137/problem/B",
+        "difficulty": 0.14448669201520914
+    },
+    {
+        "url": "http://codeforces.com/contest/137/problem/C",
+        "difficulty": 0.5994930291508238
+    },
+    {
+        "url": "http://codeforces.com/contest/137/problem/D",
+        "difficulty": 0.8821292775665399
+    },
+    {
+        "url": "http://codeforces.com/contest/137/problem/E",
+        "difficulty": 0.935361216730038
+    },
+    {
+        "url": "http://codeforces.com/contest/433/problem/A",
+        "difficulty": 0.2763246143527833
+    },
+    {
+        "url": "http://codeforces.com/contest/433/problem/B",
+        "difficulty": 0.32260228034875926
+    },
+    {
+        "url": "http://codeforces.com/contest/433/problem/C",
+        "difficulty": 0.9698189134808853
+    },
+    {
+        "url": "http://codeforces.com/contest/433/problem/D",
+        "difficulty": 0.9919517102615694
+    },
+    {
+        "url": "http://codeforces.com/contest/433/problem/E",
+        "difficulty": 0.9993293091884641
+    },
+    {
+        "url": "http://codeforces.com/contest/342/problem/A",
+        "difficulty": 0.3545516769336071
+    },
+    {
+        "url": "http://codeforces.com/contest/342/problem/B",
+        "difficulty": 0.6892539356605065
+    },
+    {
+        "url": "http://codeforces.com/contest/342/problem/C",
+        "difficulty": 0.894592744695414
+    },
+    {
+        "url": "http://codeforces.com/contest/342/problem/D",
+        "difficulty": 0.9945242984257358
+    },
+    {
+        "url": "http://codeforces.com/contest/342/problem/E",
+        "difficulty": 0.9938398357289527
+    },
+    {
+        "url": "http://codeforces.com/contest/289/problem/A",
+        "difficulty": 0.19736015084852299
+    },
+    {
+        "url": "http://codeforces.com/contest/289/problem/B",
+        "difficulty": 0.5298554368321811
+    },
+    {
+        "url": "http://codeforces.com/contest/289/problem/C",
+        "difficulty": 0.3802639849151477
+    },
+    {
+        "url": "http://codeforces.com/contest/289/problem/D",
+        "difficulty": 0.8516656191074796
+    },
+    {
+        "url": "http://codeforces.com/contest/289/problem/E",
+        "difficulty": 0.9497171590194846
+    },
+    {
+        "url": "http://codeforces.com/contest/146/problem/A",
+        "difficulty": 0.10874200426439229
+    },
+    {
+        "url": "http://codeforces.com/contest/146/problem/B",
+        "difficulty": 0.36993603411513865
+    },
+    {
+        "url": "http://codeforces.com/contest/146/problem/C",
+        "difficulty": 0.3614072494669509
+    },
+    {
+        "url": "http://codeforces.com/contest/146/problem/D",
+        "difficulty": 0.9253731343283582
+    },
+    {
+        "url": "http://codeforces.com/contest/146/problem/E",
+        "difficulty": 0.990405117270789
+    },
+    {
+        "url": "http://codeforces.com/contest/32/problem/A",
+        "difficulty": 0.0708333333333333
+    },
+    {
+        "url": "http://codeforces.com/contest/32/problem/B",
+        "difficulty": 0.09166666666666667
+    },
+    {
+        "url": "http://codeforces.com/contest/32/problem/C",
+        "difficulty": 0.7958333333333334
+    },
+    {
+        "url": "http://codeforces.com/contest/32/problem/D",
+        "difficulty": 0.75
+    },
+    {
+        "url": "http://codeforces.com/contest/32/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/203/problem/A",
+        "difficulty": 0.303030303030303
+    },
+    {
+        "url": "http://codeforces.com/contest/203/problem/B",
+        "difficulty": 0.48051948051948057
+    },
+    {
+        "url": "http://codeforces.com/contest/203/problem/C",
+        "difficulty": 0.5549783549783549
+    },
+    {
+        "url": "http://codeforces.com/contest/203/problem/D",
+        "difficulty": 0.8294372294372294
+    },
+    {
+        "url": "http://codeforces.com/contest/203/problem/E",
+        "difficulty": 0.9930735930735931
+    },
+    {
+        "url": "http://codeforces.com/contest/355/problem/A",
+        "difficulty": 0.18192627824019025
+    },
+    {
+        "url": "http://codeforces.com/contest/355/problem/B",
+        "difficulty": 0.21938168846611172
+    },
+    {
+        "url": "http://codeforces.com/contest/355/problem/C",
+        "difficulty": 0.8252080856123662
+    },
+    {
+        "url": "http://codeforces.com/contest/355/problem/D",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/355/problem/E",
+        "difficulty": 0.9928656361474435
+    },
+    {
+        "url": "http://codeforces.com/contest/110/problem/A",
+        "difficulty": 0.035516093229744694
+    },
+    {
+        "url": "http://codeforces.com/contest/110/problem/B",
+        "difficulty": 0.21420643729189792
+    },
+    {
+        "url": "http://codeforces.com/contest/110/problem/C",
+        "difficulty": 0.31298557158712537
+    },
+    {
+        "url": "http://codeforces.com/contest/110/problem/D",
+        "difficulty": 0.97669256381798
+    },
+    {
+        "url": "http://codeforces.com/contest/110/problem/E",
+        "difficulty": 0.9667036625971143
+    },
+    {
+        "url": "http://codeforces.com/contest/69/problem/A",
+        "difficulty": 0.0902366863905325
+    },
+    {
+        "url": "http://codeforces.com/contest/69/problem/B",
+        "difficulty": 0.2973372781065089
+    },
+    {
+        "url": "http://codeforces.com/contest/69/problem/C",
+        "difficulty": 0.8979289940828402
+    },
+    {
+        "url": "http://codeforces.com/contest/69/problem/D",
+        "difficulty": 0.9659763313609467
+    },
+    {
+        "url": "http://codeforces.com/contest/69/problem/E",
+        "difficulty": 0.8742603550295858
+    },
+    {
+        "url": "http://codeforces.com/contest/304/problem/A",
+        "difficulty": 0.3520833333333333
+    },
+    {
+        "url": "http://codeforces.com/contest/304/problem/B",
+        "difficulty": 0.5020833333333333
+    },
+    {
+        "url": "http://codeforces.com/contest/304/problem/C",
+        "difficulty": 0.5677083333333333
+    },
+    {
+        "url": "http://codeforces.com/contest/304/problem/D",
+        "difficulty": 0.9239583333333333
+    },
+    {
+        "url": "http://codeforces.com/contest/304/problem/E",
+        "difficulty": 0.9989583333333333
+    },
+    {
+        "url": "http://codeforces.com/contest/262/problem/A",
+        "difficulty": 0.058663028649386106
+    },
+    {
+        "url": "http://codeforces.com/contest/262/problem/B",
+        "difficulty": 0.417462482946794
+    },
+    {
+        "url": "http://codeforces.com/contest/262/problem/C",
+        "difficulty": 0.5729877216916781
+    },
+    {
+        "url": "http://codeforces.com/contest/262/problem/D",
+        "difficulty": 0.9918144611186903
+    },
+    {
+        "url": "http://codeforces.com/contest/262/problem/E",
+        "difficulty": 0.9979536152796725
+    },
+    {
+        "url": "http://codeforces.com/contest/34/problem/A",
+        "difficulty": 0.13170731707317074
+    },
+    {
+        "url": "http://codeforces.com/contest/34/problem/B",
+        "difficulty": 0.14146341463414636
+    },
+    {
+        "url": "http://codeforces.com/contest/34/problem/C",
+        "difficulty": 0.4609756097560975
+    },
+    {
+        "url": "http://codeforces.com/contest/34/problem/D",
+        "difficulty": 0.6439024390243903
+    },
+    {
+        "url": "http://codeforces.com/contest/34/problem/E",
+        "difficulty": 0.9414634146341463
+    },
+    {
+        "url": "http://codeforces.com/contest/318/problem/A",
+        "difficulty": 0.11515552614162805
+    },
+    {
+        "url": "http://codeforces.com/contest/318/problem/B",
+        "difficulty": 0.42686962276637985
+    },
+    {
+        "url": "http://codeforces.com/contest/318/problem/C",
+        "difficulty": 0.7392455327597618
+    },
+    {
+        "url": "http://codeforces.com/contest/318/problem/D",
+        "difficulty": 0.9682329583057577
+    },
+    {
+        "url": "http://codeforces.com/contest/318/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/160/problem/A",
+        "difficulty": 0.12186865267433988
+    },
+    {
+        "url": "http://codeforces.com/contest/160/problem/B",
+        "difficulty": 0.2850372376438727
+    },
+    {
+        "url": "http://codeforces.com/contest/160/problem/C",
+        "difficulty": 0.8496953283683142
+    },
+    {
+        "url": "http://codeforces.com/contest/160/problem/D",
+        "difficulty": 0.99322951929587
+    },
+    {
+        "url": "http://codeforces.com/contest/160/problem/E",
+        "difficulty": 0.997968855788761
+    },
+    {
+        "url": "http://codeforces.com/contest/265/problem/A",
+        "difficulty": 0.04131147540983604
+    },
+    {
+        "url": "http://codeforces.com/contest/265/problem/B",
+        "difficulty": 0.13508196721311472
+    },
+    {
+        "url": "http://codeforces.com/contest/265/problem/C",
+        "difficulty": 0.5632786885245902
+    },
+    {
+        "url": "http://codeforces.com/contest/265/problem/D",
+        "difficulty": 0.898360655737705
+    },
+    {
+        "url": "http://codeforces.com/contest/265/problem/E",
+        "difficulty": 0.9921311475409836
+    },
+    {
+        "url": "http://codeforces.com/contest/370/problem/A",
+        "difficulty": 0.3173076923076923
+    },
+    {
+        "url": "http://codeforces.com/contest/370/problem/B",
+        "difficulty": 0.42832167832167833
+    },
+    {
+        "url": "http://codeforces.com/contest/370/problem/C",
+        "difficulty": 0.868006993006993
+    },
+    {
+        "url": "http://codeforces.com/contest/370/problem/D",
+        "difficulty": 0.9851398601398601
+    },
+    {
+        "url": "http://codeforces.com/contest/370/problem/E",
+        "difficulty": 0.9982517482517482
+    },
+    {
+        "url": "http://codeforces.com/contest/252/problem/A",
+        "difficulty": 0.2727272727272727
+    },
+    {
+        "url": "http://codeforces.com/contest/252/problem/B",
+        "difficulty": 0.875558867362146
+    },
+    {
+        "url": "http://codeforces.com/contest/252/problem/C",
+        "difficulty": 0.6855439642324888
+    },
+    {
+        "url": "http://codeforces.com/contest/252/problem/D",
+        "difficulty": 0.9873323397913562
+    },
+    {
+        "url": "http://codeforces.com/contest/252/problem/E",
+        "difficulty": 0.9985096870342772
+    },
+    {
+        "url": "http://codeforces.com/contest/195/problem/A",
+        "difficulty": 0.14948453608247425
+    },
+    {
+        "url": "http://codeforces.com/contest/195/problem/B",
+        "difficulty": 0.34329896907216495
+    },
+    {
+        "url": "http://codeforces.com/contest/195/problem/C",
+        "difficulty": 0.8412371134020619
+    },
+    {
+        "url": "http://codeforces.com/contest/195/problem/D",
+        "difficulty": 0.9350515463917526
+    },
+    {
+        "url": "http://codeforces.com/contest/195/problem/E",
+        "difficulty": 0.9731958762886598
+    },
+    {
+        "url": "http://codeforces.com/contest/368/problem/A",
+        "difficulty": 0.18485169491525422
+    },
+    {
+        "url": "http://codeforces.com/contest/368/problem/B",
+        "difficulty": 0.2478813559322034
+    },
+    {
+        "url": "http://codeforces.com/contest/368/problem/C",
+        "difficulty": 0.6588983050847458
+    },
+    {
+        "url": "http://codeforces.com/contest/368/problem/D",
+        "difficulty": 0.9772245762711864
+    },
+    {
+        "url": "http://codeforces.com/contest/368/problem/E",
+        "difficulty": 0.9904661016949152
+    },
+    {
+        "url": "http://codeforces.com/contest/49/problem/A",
+        "difficulty": 0.06388888888888888
+    },
+    {
+        "url": "http://codeforces.com/contest/49/problem/B",
+        "difficulty": 0.7277777777777779
+    },
+    {
+        "url": "http://codeforces.com/contest/49/problem/C",
+        "difficulty": 0.7583333333333333
+    },
+    {
+        "url": "http://codeforces.com/contest/49/problem/D",
+        "difficulty": 0.8194444444444444
+    },
+    {
+        "url": "http://codeforces.com/contest/49/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/282/problem/A",
+        "difficulty": 0.046428571428571375
+    },
+    {
+        "url": "http://codeforces.com/contest/282/problem/B",
+        "difficulty": 0.5530612244897959
+    },
+    {
+        "url": "http://codeforces.com/contest/282/problem/C",
+        "difficulty": 0.6642857142857144
+    },
+    {
+        "url": "http://codeforces.com/contest/282/problem/D",
+        "difficulty": 0.9908163265306122
+    },
+    {
+        "url": "http://codeforces.com/contest/282/problem/E",
+        "difficulty": 0.9897959183673469
+    },
+    {
+        "url": "http://codeforces.com/contest/192/problem/A",
+        "difficulty": 0.5550891920251837
+    },
+    {
+        "url": "http://codeforces.com/contest/192/problem/B",
+        "difficulty": 0.3022035676810073
+    },
+    {
+        "url": "http://codeforces.com/contest/192/problem/C",
+        "difficulty": 0.7922350472193075
+    },
+    {
+        "url": "http://codeforces.com/contest/192/problem/D",
+        "difficulty": 0.9412381951731374
+    },
+    {
+        "url": "http://codeforces.com/contest/192/problem/E",
+        "difficulty": 0.9800629590766002
+    },
+    {
+        "url": "http://codeforces.com/contest/29/problem/A",
+        "difficulty": 0.07323943661971832
+    },
+    {
+        "url": "http://codeforces.com/contest/29/problem/B",
+        "difficulty": 0.6450704225352113
+    },
+    {
+        "url": "http://codeforces.com/contest/29/problem/C",
+        "difficulty": 0.7070422535211267
+    },
+    {
+        "url": "http://codeforces.com/contest/29/problem/D",
+        "difficulty": 0.856338028169014
+    },
+    {
+        "url": "http://codeforces.com/contest/29/problem/E",
+        "difficulty": 0.9943661971830986
+    },
+    {
+        "url": "http://codeforces.com/contest/88/problem/A",
+        "difficulty": 0.23752151462994842
+    },
+    {
+        "url": "http://codeforces.com/contest/88/problem/B",
+        "difficulty": 0.6712564543889845
+    },
+    {
+        "url": "http://codeforces.com/contest/88/problem/C",
+        "difficulty": 0.612736660929432
+    },
+    {
+        "url": "http://codeforces.com/contest/88/problem/D",
+        "difficulty": 0.8967297762478486
+    },
+    {
+        "url": "http://codeforces.com/contest/88/problem/E",
+        "difficulty": 0.9862306368330465
+    },
+    {
+        "url": "http://codeforces.com/contest/66/problem/A",
+        "difficulty": 0.4050235478806907
+    },
+    {
+        "url": "http://codeforces.com/contest/66/problem/B",
+        "difficulty": 0.16326530612244894
+    },
+    {
+        "url": "http://codeforces.com/contest/66/problem/C",
+        "difficulty": 0.8351648351648352
+    },
+    {
+        "url": "http://codeforces.com/contest/66/problem/D",
+        "difficulty": 0.6891679748822606
+    },
+    {
+        "url": "http://codeforces.com/contest/66/problem/E",
+        "difficulty": 0.9607535321821036
+    },
+    {
+        "url": "http://codeforces.com/contest/271/problem/A",
+        "difficulty": 0.04412641621943947
+    },
+    {
+        "url": "http://codeforces.com/contest/271/problem/B",
+        "difficulty": 0.5271317829457365
+    },
+    {
+        "url": "http://codeforces.com/contest/271/problem/C",
+        "difficulty": 0.5790101371496721
+    },
+    {
+        "url": "http://codeforces.com/contest/271/problem/D",
+        "difficulty": 0.9045915324985092
+    },
+    {
+        "url": "http://codeforces.com/contest/271/problem/E",
+        "difficulty": 0.9934406678592725
+    },
+    {
+        "url": "http://codeforces.com/contest/486/problem/A",
+        "difficulty": 0.13376772709850515
+    },
+    {
+        "url": "http://codeforces.com/contest/486/problem/B",
+        "difficulty": 0.5960137983901879
+    },
+    {
+        "url": "http://codeforces.com/contest/486/problem/C",
+        "difficulty": 0.7796090456113454
+    },
+    {
+        "url": "http://codeforces.com/contest/486/problem/D",
+        "difficulty": 0.9862016098121886
+    },
+    {
+        "url": "http://codeforces.com/contest/486/problem/E",
+        "difficulty": 0.9900344959754696
+    },
+    {
+        "url": "http://codeforces.com/contest/285/problem/A",
+        "difficulty": 0.15397727272727268
+    },
+    {
+        "url": "http://codeforces.com/contest/285/problem/B",
+        "difficulty": 0.2619318181818182
+    },
+    {
+        "url": "http://codeforces.com/contest/285/problem/C",
+        "difficulty": 0.3113636363636364
+    },
+    {
+        "url": "http://codeforces.com/contest/285/problem/D",
+        "difficulty": 0.8801136363636364
+    },
+    {
+        "url": "http://codeforces.com/contest/285/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/90/problem/A",
+        "difficulty": 0.11730205278592376
+    },
+    {
+        "url": "http://codeforces.com/contest/90/problem/B",
+        "difficulty": 0.1378299120234604
+    },
+    {
+        "url": "http://codeforces.com/contest/90/problem/C",
+        "difficulty": 0.8841642228739003
+    },
+    {
+        "url": "http://codeforces.com/contest/90/problem/D",
+        "difficulty": 0.9794721407624634
+    },
+    {
+        "url": "http://codeforces.com/contest/90/problem/E",
+        "difficulty": 0.9853372434017595
+    },
+    {
+        "url": "http://codeforces.com/contest/224/problem/A",
+        "difficulty": 0.19487525286581253
+    },
+    {
+        "url": "http://codeforces.com/contest/224/problem/B",
+        "difficulty": 0.6776803776129467
+    },
+    {
+        "url": "http://codeforces.com/contest/224/problem/C",
+        "difficulty": 0.9116655428186109
+    },
+    {
+        "url": "http://codeforces.com/contest/224/problem/D",
+        "difficulty": 0.9811193526635199
+    },
+    {
+        "url": "http://codeforces.com/contest/224/problem/E",
+        "difficulty": 0.9871881321645314
+    },
+    {
+        "url": "http://codeforces.com/contest/254/problem/A",
+        "difficulty": 0.3220338983050848
+    },
+    {
+        "url": "http://codeforces.com/contest/254/problem/B",
+        "difficulty": 0.6042372881355933
+    },
+    {
+        "url": "http://codeforces.com/contest/254/problem/C",
+        "difficulty": 0.8584745762711865
+    },
+    {
+        "url": "http://codeforces.com/contest/254/problem/D",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/254/problem/E",
+        "difficulty": 0.9957627118644068
+    },
+    {
+        "url": "http://codeforces.com/contest/373/problem/A",
+        "difficulty": 0.12432106216053107
+    },
+    {
+        "url": "http://codeforces.com/contest/373/problem/B",
+        "difficulty": 0.7724803862401931
+    },
+    {
+        "url": "http://codeforces.com/contest/373/problem/C",
+        "difficulty": 0.8141219070609536
+    },
+    {
+        "url": "http://codeforces.com/contest/373/problem/D",
+        "difficulty": 0.9873264936632469
+    },
+    {
+        "url": "http://codeforces.com/contest/373/problem/E",
+        "difficulty": 0.9975859987929994
+    },
+    {
+        "url": "http://codeforces.com/contest/478/problem/A",
+        "difficulty": 0.19162479061976545
+    },
+    {
+        "url": "http://codeforces.com/contest/478/problem/B",
+        "difficulty": 0.4040201005025126
+    },
+    {
+        "url": "http://codeforces.com/contest/478/problem/C",
+        "difficulty": 0.8606365159128978
+    },
+    {
+        "url": "http://codeforces.com/contest/478/problem/D",
+        "difficulty": 0.9711892797319933
+    },
+    {
+        "url": "http://codeforces.com/contest/478/problem/E",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/148/problem/A",
+        "difficulty": 0.06520090978013648
+    },
+    {
+        "url": "http://codeforces.com/contest/148/problem/B",
+        "difficulty": 0.6285064442759667
+    },
+    {
+        "url": "http://codeforces.com/contest/148/problem/C",
+        "difficulty": 0.8301743745261562
+    },
+    {
+        "url": "http://codeforces.com/contest/148/problem/D",
+        "difficulty": 0.8908263836239575
+    },
+    {
+        "url": "http://codeforces.com/contest/148/problem/E",
+        "difficulty": 0.954510993176649
+    },
+    {
+        "url": "http://codeforces.com/contest/99/problem/A",
+        "difficulty": 0.10925306577480487
+    },
+    {
+        "url": "http://codeforces.com/contest/99/problem/B",
+        "difficulty": 0.6254180602006689
+    },
+    {
+        "url": "http://codeforces.com/contest/99/problem/C",
+        "difficulty": 0.855072463768116
+    },
+    {
+        "url": "http://codeforces.com/contest/99/problem/D",
+        "difficulty": 1
+    },
+    {
+        "url": "http://codeforces.com/contest/99/problem/E",
+        "difficulty": 0.9977703455964325
+    },
+    {
+        "url": "http://codeforces.com/contest/439/problem/A",
+        "difficulty": 0.15777368905243794
+    },
+    {
+        "url": "http://codeforces.com/contest/439/problem/B",
+        "difficulty": 0.34084636614535424
+    },
+    {
+        "url": "http://codeforces.com/contest/439/problem/C",
+        "difficulty": 0.9121435142594296
+    },
+    {
+        "url": "http://codeforces.com/contest/439/problem/D",
+        "difficulty": 0.9130634774609016
+    },
+    {
+        "url": "http://codeforces.com/contest/439/problem/E",
+        "difficulty": 0.9954001839926403
+    },
+    {
+        "url": "http://codeforces.com/contest/263/problem/A",
+        "difficulty": 0.025141420490257693
+    },
+    {
+        "url": "http://codeforces.com/contest/263/problem/B",
+        "difficulty": 0.1332495285983658
+    },
+    {
+        "url": "http://codeforces.com/contest/263/problem/C",
+        "difficulty": 0.9622878692646134
+    },
+    {
+        "url": "http://codeforces.com/contest/263/problem/D",
+        "difficulty": 0.890634820867379
+    },
+    {
+        "url": "http://codeforces.com/contest/263/problem/E",
+        "difficulty": 0.9987429289754871
+    },
+    {
+        "url": "http://codeforces.com/contest/108/problem/A",
+        "difficulty": 0.16878612716763008
+    },
+    {
+        "url": "http://codeforces.com/contest/108/problem/B",
+        "difficulty": 0.6092485549132948
+    },
+    {
+        "url": "http://codeforces.com/contest/108/problem/C",
+        "difficulty": 0.6809248554913294
+    },
+    {
+        "url": "http://codeforces.com/contest/108/problem/D",
+        "difficulty": 0.8508670520231214
+    },
+    {
+        "url": "http://codeforces.com/contest/108/problem/E",
+        "difficulty": 0.9988439306358381
+    },
+    {
+        "url": "http://codeforces.com/contest/122/problem/A",
+        "difficulty": 0.15903197925669832
+    },
+    {
+        "url": "http://codeforces.com/contest/122/problem/B",
+        "difficulty": 0.22558340535868626
+    },
+    {
+        "url": "http://codeforces.com/contest/122/problem/C",
+        "difficulty": 0.6076058772687987
+    },
+    {
+        "url": "http://codeforces.com/contest/122/problem/D",
+        "difficulty": 0.8392394122731202
+    },
+    {
+        "url": "http://codeforces.com/contest/122/problem/E",
+        "difficulty": 0.9818496110630942
+    },
+    {
+        "url": "http://codeforces.com/contest/197/problem/A",
+        "difficulty": 0.6341698841698842
+    },
+    {
+        "url": "http://codeforces.com/contest/197/problem/B",
+        "difficulty": 0.49517374517374513
+    },
+    {
+        "url": "http://codeforces.com/contest/197/problem/C",
+        "difficulty": 0.36003861003861004
+    },
+    {
+        "url": "http://codeforces.com/contest/197/problem/D",
+        "difficulty": 0.9797297297297297
+    },
+    {
+        "url": "http://codeforces.com/contest/197/problem/E",
+        "difficulty": 0.9980694980694981
+    },
+    {
+        "url": "http://codeforces.com/contest/272/problem/A",
+        "difficulty": 0.10449503794512549
+    },
+    {
+        "url": "http://codeforces.com/contest/272/problem/B",
+        "difficulty": 0.4740221833041448
+    },
+    {
+        "url": "http://codeforces.com/contest/272/problem/C",
+        "difficulty": 0.7273788674839463
+    },
+    {
+        "url": "http://codeforces.com/contest/272/problem/D",
+        "difficulty": 0.9422066549912435
+    },
+    {
+        "url": "http://codeforces.com/contest/272/problem/E",
+        "difficulty": 0.9935785172212492
+    },
+    {
+        "url": "http://codeforces.com/contest/432/problem/A",
+        "difficulty": 0.08044752264251465
+    },
+    {
+        "url": "http://codeforces.com/contest/432/problem/B",
+        "difficulty": 0.3058071390516782
+    },
+    {
+        "url": "http://codeforces.com/contest/432/problem/C",
+        "difficulty": 0.8694725625998935
+    },
+    {
+        "url": "http://codeforces.com/contest/432/problem/D",
+        "difficulty": 0.9440596696856687
+    },
+    {
+        "url": "http://codeforces.com/contest/432/problem/E",
+        "difficulty": 0.9973361747469366
+    },
+    {
+        "url": "http://codeforces.com/contest/165/problem/A",
+        "difficulty": 0.11198945981554675
+    },
+    {
+        "url": "http://codeforces.com/contest/165/problem/B",
+        "difficulty": 0.6093544137022397
+    },
+    {
+        "url": "http://codeforces.com/contest/165/problem/C",
+        "difficulty": 0.7134387351778656
+    },
+    {
+        "url": "http://codeforces.com/contest/165/problem/D",
+        "difficulty": 0.974308300395257
+    },
+    {
+        "url": "http://codeforces.com/contest/165/problem/E",
+        "difficulty": 0.974308300395257
+    },
+    {
+        "url": "http://codeforces.com/contest/454/problem/A",
+        "difficulty": 0.042229729729729715
+    },
+    {
+        "url": "http://codeforces.com/contest/454/problem/B",
+        "difficulty": 0.4543918918918919
+    },
+    {
+        "url": "http://codeforces.com/contest/454/problem/C",
+        "difficulty": 0.7276182432432432
+    },
+    {
+        "url": "http://codeforces.com/contest/454/problem/D",
+        "difficulty": 0.984375
+    },
+    {
+        "url": "http://codeforces.com/contest/454/problem/E",
+        "difficulty": 0.9991554054054054
+    },
+    {
+        "url": "http://codeforces.com/contest/401/problem/A",
+        "difficulty": 0.0993975903614458
+    },
+    {
+        "url": "http://codeforces.com/contest/401/problem/B",
+        "difficulty": 0.3363453815261044
+    },
+    {
+        "url": "http://codeforces.com/contest/401/problem/C",
+        "difficulty": 0.5632530120481928
+    },
+    {
+        "url": "http://codeforces.com/contest/401/problem/D",
+        "difficulty": 0.9754016064257028
+    },
+    {
+        "url": "http://codeforces.com/contest/401/problem/E",
+        "difficulty": 0.9994979919678715
+    },
+    {
+        "url": "http://codeforces.com/contest/216/problem/A",
+        "difficulty": 0.28371005455962583
+    },
+    {
+        "url": "http://codeforces.com/contest/216/problem/B",
+        "difficulty": 0.818394388152767
+    },
+    {
+        "url": "http://codeforces.com/contest/216/problem/C",
+        "difficulty": 0.8815276695245519
+    },
+    {
+        "url": "http://codeforces.com/contest/216/problem/D",
+        "difficulty": 0.8955572876071707
+    },
+    {
+        "url": "http://codeforces.com/contest/216/problem/E",
+        "difficulty": 0.9883086515978177
+    }
+]
