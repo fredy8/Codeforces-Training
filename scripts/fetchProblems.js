@@ -1,17 +1,8 @@
-import request from 'request';
 import Promise from 'bluebird';
 import cheerio from 'cheerio';
 import R from 'ramda';
 import fs from 'fs';
-
-const get = (url) => new Promise((resolve, reject) => {
-  request(url, (err, res, body) => {
-    if (err) return reject(err);
-    res.body = body;
-    if (res.statusCode !== 200) return reject(res);
-    resolve(res);
-  });
-});
+import get from './get';
 
 const getContestStats = (problemId) =>
   get(`http://codeforces.com/contest/${problemId}/standings/page/1`)
