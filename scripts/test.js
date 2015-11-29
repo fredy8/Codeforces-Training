@@ -20,9 +20,14 @@ if (['A', 'B', 'C', 'D', 'E'].indexOf(problemId) == -1) {
 }
 
 let cache = {};
+const cacheFile = path.join(__dirname, '.tests_cache');
+
+const saveCache = () => {
+  fs.writeFile(cacheFile, JSON.stringify(cache));
+};
 
 try {
-  cache = JSON.parse(fs.readFileSync('.tests_cache'));
+  cache = JSON.parse(fs.readFileSync(cacheFile));
 } catch (e) { }
 
 const testCase = (input, output) => {
@@ -71,22 +76,8 @@ const testCase = (input, output) => {
   });
 };
 
-get(`http://codeforces.com/contest/${contestId}/problem/${problemId}`)
-.then((res) => {
-  const $ = cheerio.load(res.body);
-  
-  const parseTests = (className) => {
-    const tests = [];
-    $(`.${className} > pre`).each(function () {
-      tests.push($('<div>' + $(this).html().replace(/<br>/g, '\n') + '</div>').text());
-    });
-
-    return tests;
-  }
-
-  const inputs = parseTests('input');
-  const outputs = parseTests('output');
-
+const processIOs = (data) => {
+  const { inputs, outputs } = data;
   const execCase = (index) => {
     if (index < inputs.length) {
       process.stdout.write(`Test ${index} - `);
@@ -113,8 +104,37 @@ get(`http://codeforces.com/contest/${contestId}/problem/${problemId}`)
   };
 
   execCase(0);
-}).catch((err) => {
-  console.log(err);
-  console.error('Problem not found.');
-  process.exit(1);
-});
+};
+
+const pId = contestId + problemId;
+if (cache[pId]) {
+  processIOs(cache[pId]);
+} else {
+  get(`http://codeforces.com/contest/${contestId}/problem/${problemId}`)
+  .then((res) => {
+    const $ = cheerio.load(res.body);
+    
+    const parseTests = (className) => {
+      const tests = [];
+      $(`.${className} > pre`).each(function () {
+        tests.push($('<div>' + $(this).html().replace(/<br>/g, '\n') + '</div>').text());
+      });
+  
+      return tests;
+    }
+  
+    const inputs = parseTests('input');
+    const outputs = parseTests('output');
+    const data = { inputs, outputs };
+    cache[pId] = data;
+    saveCache();
+  
+    return data;
+  }).then(processIOs)
+  .catch((err) => {
+    console.log(err);
+    console.error('Problem not found.');
+    process.exit(1);
+  });
+}
+  
