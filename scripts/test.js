@@ -132,7 +132,6 @@ if (cache[pId]) {
     return data;
   }).then(processIOs)
   .catch((err) => {
-    console.log(err);
     console.error('Problem not found.');
     process.exit(1);
   });
