@@ -1,3 +1,4 @@
+//602 A
 #include <bits/stdc++.h>
 #define _ ios_base::sync_with_stdio(0), cin.tie(0), cin.tie(0), cout.tie(0), cout.precision(15);
 #define INF 1000000000
@@ -13,33 +14,22 @@ const int MAXN = 200000;
 ll N, B;
 
 int main() { _
-    while(cin >> N >> B)
-     {
-        ll a = 0, b = 0;
-        int k;
-        FOR(i, 0, N) {
-            a *= B;  
-            cin >> k;
-            a += k;
-        }
-
-
-
-
-
-
-        cin >> N >> B;
-        FOR(i, 0, N) {
-
-            b *= B;
-            
-
-
-
-            cin >> k;
-             b += k;
-        }
-
-        cout << (a == b ? '=' : a < b ? '<' : '>') << endl;
+    cin >> N >> B; 
+    ll a = 0, b = 0;
+    int k;
+    FOR(i, 0, N) {
+        a *= B;  
+        
+        cin >> k;
+        a += k;
     }
+  
+    cin >> N >> B;
+    FOR(i, 0, N) {
+        b *= B;
+        cin >> k;
+        b += k;
+    }
+
+    cout << (a == b ? '=' : a < b ? '<' : '>') << endl;
 } 

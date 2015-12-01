@@ -1,3 +1,5 @@
+#!/usr/local/bin/babel-node
+
 import readline from 'readline';
 import fs from 'fs';
 import problems from './problems.json';

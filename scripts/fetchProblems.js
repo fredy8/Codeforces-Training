@@ -1,3 +1,5 @@
+#!/usr/local/bin/babel-node
+
 import Promise from 'bluebird';
 import cheerio from 'cheerio';
 import R from 'ramda';
