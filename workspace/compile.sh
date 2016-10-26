@@ -1,1 +1,1 @@
-g++-4.8 $1 -o problem
+g++ -std=c++11 $1 -o problem

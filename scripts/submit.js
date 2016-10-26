@@ -21,7 +21,7 @@ if (!contestId || isNaN(contestId)) {
   process.exit(1);
 }
 
-if (['A', 'B', 'C', 'D', 'E'].indexOf(problemId) == -1) {
+if (['A', 'B', 'C', 'D', 'E', 'F'].indexOf(problemId) == -1) {
   console.error('Invalid problem id.');
   process.exit(1);
 }
@@ -35,8 +35,8 @@ try {
   process.exit(1);
 }
 
-post(`http://codeforces.com/contest/${contestId}/submit?csrf_token=4897280a70f88c73dcfa6cb53344f14e`, {
-  csrf_token: '4897280a70f88c73dcfa6cb53344f14e',
+post(`http://codeforces.com/contest/${contestId}/submit?csrf_token=df1544bdc3f592e709824c919d72b7f9`, {
+  csrf_token: 'df1544bdc3f592e709824c919d72b7f9',
   ftaa: 'ab57nabywx2ygqfrmz',
   bfaa: '89f225e804110f6765a573bfa64f0d68',
   action: 'submitSolutionFormSubmitted',
@@ -45,7 +45,7 @@ post(`http://codeforces.com/contest/${contestId}/submit?csrf_token=4897280a70f88
   source: source,
   _tta: '963',
 }, {
-  Cookie: 'X-User=eadffe40f37fb881bd15c3a0a0bbd25a25a211a3db512df781d94f362b4c127c1969f35d2eebf5ec',
+  Cookie: 'X-User=986d4c5534f264fe57abb0c29f9e84d60fc28207a0ea518636d84b5e0fcffa360a20143347da507d',
 }).then((res) => {
   console.log('Submitted.');
 }).catch(() => {

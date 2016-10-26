@@ -1,0 +1,80 @@
+T-79.4101 Programming Assignment 2: Spin Glass Ground State Problem
+Alfredo Altamirano Montealvo, 563741
+April 12, 2016
+
+Problem Description
+
+The problem consists of minimizing a non linear function. There are n variables which can take a value of -1 or 1, and give Jij, we want to minimize f(x) = -sum Jij*ni*nj for all i, j.
+
+Approach       
+
+Create a new variable fij where fij is one if ni and nj are equal and Jij is 1, or if ni and nj are different and Jij is -1. Zero otherwise. Introduce a variable xi for all ni, where xi is 1 if ni is 1 and xi is 0 if ni is -1. Minimizing g(x) = -sum(fij) will give the answer to the problem.
+
+The objective function is simply g(x) = -sum(fij), now I need to set the constraints so that fij is one only in the correct values of ni and nj.
+
+Lets say Jij is 1, then fij is 1 iff xi is equal to xj.
+Therefore, we have
+
+(1)		(xi and not xj) -> not fij
+			and
+(2)		(not xi and xj) -> not fij
+
+This is because fij is zero when xi is not equal to xj
+We can create separate linear constrains for (1) and (2) since its a conjunction.
+
+We can simplify (1) to:
+not xi or xj or fij
+
+which can be modeled in a linear constraint:
+
+xj - xi - 1 + fij <= 0
+
+We can simplify (2) to:
+
+xi - xj - 1 + fij <= 0
+
+We can verify that if xi is not equal to xj, fij is forced to be zero, otherwise, fij is forced to 1.
+
+We can do the same thing when Jij is -1:
+
+(1)		(xi and xj) -> not fij
+			and
+(2)		(not xi and not xj) -> not fi
+
+Which can be model as a linear constraint as:
+
+-xi - xj + fij <= 0
+xi + xj - 2 <= 0
+
+Results
+
+instance				time (s)
+
+spinglass-17.g			.03
+spinglass-43.g			.77
+spinglass-48.g			8.83
+
+spinglass_a-40.g		24.55
+spinglass_b-44.g		11.9
+spinglass_c-44.g		7.37
+spinglass_d-52.g		4.7
+spinglass_e-48.g		11.49
+spinglass_f-50.g		7.92
+spinglass_g-42.g		14.17
+spinglass_h-48.g		9.35
+spinglass_i-46.g		7.54
+
+spinglass_a-81.g		286.91
+spinglass_b-71.g		2534
+spinglass_c-77.g		903.28
+spinglass_d-75.g		286.91
+spinglass_e-89.g		136.9
+spinglass_f-79.g		450.19
+spinglass_g-73.g		446.56
+spinglass_h-73.g		2789.68
+spinglass_i-79.g		1376.47
+spinglass_j-71.g		700.27
+
+Conclusions
+
+Linear programming is a powerful tool for modeling optimization problems, even though integer programming is NP hard, because heuristics can be used to try to find a bound on the optimal solution and therefore try to find the optimal solution fast. Optimal solutions where found for problems with more than 30 variables, a brute force would take a long time to find the optimal solution, and would probably require more programming for modeling the problem. The linear program used in this problem found the optimal solution for the instances, although it is possible that there exists better modelings of the problem which can make the linear program to perform better. Using this tools allows to solve very hard problems relatively fast, as long as it can be modeled, which is better than others naive solutions for optimization problems.

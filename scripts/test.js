@@ -16,7 +16,7 @@ if (!contestId || isNaN(contestId)) {
   process.exit(1);
 }
 
-if (['A', 'B', 'C', 'D', 'E'].indexOf(problemId) == -1) {
+if (['A', 'B', 'C', 'D', 'E', 'F'].indexOf(problemId) == -1) {
   console.error('Invalid problem id.');
   process.exit(1);
 }
@@ -80,6 +80,7 @@ const testCase = (input, output) => {
 
 const processIOs = (data) => {
   const { inputs, outputs } = data;
+  let correct = true;
   const execCase = (index) => {
     if (index < inputs.length) {
       process.stdout.write(`Test ${index} - `);
@@ -99,9 +100,13 @@ const processIOs = (data) => {
         } else if (err.status === 'RTE') {
           console.log('RTE');
         }
+        execCase(index + 1);
+        correct = false;
       });
     } else {
-      console.log('Sample Tests Passed');
+      if (correct) {
+        console.log('Sample Tests Passed');
+      }
     }
   };
 
@@ -135,6 +140,7 @@ if (cache[pId]) {
   }).then(processIOs)
   .catch((err) => {
     console.error('Problem not found.');
+    console.log(err);
     process.exit(1);
   });
 }

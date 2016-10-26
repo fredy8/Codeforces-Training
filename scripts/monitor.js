@@ -18,19 +18,18 @@ const formatMinutes = (millis) => {
 };
 
 const log = () => {
-  const total = times.understanding + times.solving + times.coding + times.debugging;
+  const total = times.understanding + times.solving + times.coding;
   console.log(`
     Understanding:  ${formatMinutes(times.understanding)}
     Solving:        ${formatMinutes(times.solving)}
     Coding:         ${formatMinutes(times.coding)}
-    Debugging:      ${formatMinutes(times.debugging)}
     TOTAL:          ${formatMinutes(total)}
   `);
 
   const date = new Date();
   const formattedDate = `${date.getMonth()+1}-${date.getDate()}-${date.getFullYear()}`;
   problem = problem || { url: '', difficulty: '' };
-  fs.appendFile('logs.csv', `${formattedDate},${problem.url},${problem.difficulty},${times.understanding},${times.solving},${times.coding},${times.debugging},${total}\n`, (err) => {
+  fs.appendFile('logs.csv', `${formattedDate},${problem.url},${problem.difficulty},${times.understanding},${times.solving},${times.coding},${total}\n`, (err) => {
     if (err) {
       console.log('There was an error writing to the logs. Try logging manually.');
       console.error(err);
@@ -55,8 +54,7 @@ const start = () => {
   times = {
     'understanding': 0,
     'solving': 0,
-    'coding': 0,
-    'debugging': 0
+    'coding': 0
   };
   state = 'understanding';
   lastTime = Date.now();
@@ -71,8 +69,9 @@ const stop = () => {
 
   if (state == 'paused')
     state = pausedState;
+  else
+    times[state] += Date.now() - lastTime;
 
-  times[state] += Date.now() - lastTime;
   state = 'not started';
   console.log('STOPPED');
   log();
@@ -137,7 +136,6 @@ const commands = () => {
     r - resume
     u - switch to understanding
     c - switch to coding
-    d - switch to debugging
   `);
 };
 
@@ -165,7 +163,6 @@ rl.on('line', (line) => {
     case 'r': resume(); break;
     case 'u': setState('understanding'); break;
     case 'c': setState('coding'); break;
-    case 'd': setState('debugging'); break;
     default: console.log('Command not recognized.'); commands(); break;
   }
 });

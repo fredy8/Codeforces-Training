@@ -1,35 +1,100 @@
-//602 A
-#include <bits/stdc++.h>
-#define _ ios_base::sync_with_stdio(0), cin.tie(0), cin.tie(0), cout.tie(0), cout.precision(15);
-#define INF 1000000000
-#define FOR(i, a, b) for(int i=int(a); i<int(b); i++)
-#define FORC(cont, it) for(decltype((cont).begin()) it=(cont).begin(); it!=(cont).end(); it++)
-#define RFORC(cont, it) for(decltype((cont).rbegin()) it=(cont).rbegin(); it!=(cont).rend(); it++)
-#define pb push_back
-#define mp make_pair
-#define all(x) (x).begin(), (x).end()
-using namespace std; typedef long long ll; typedef pair<ll, ll> ii; typedef vector<ll> vi; typedef vector<ii> vii; typedef vector<vi> vvi;
+#include <map>
+#include <set>
+#include <list>
+#include <cmath>
+#include <ctime>
+#include <deque>
+#include <queue>
+#include <stack>
+#include <string>
+#include <bitset>
+#include <cstdio>
+#include <limits>
+#include <vector>
+#include <climits>
+#include <cstring>
+#include <cstdlib>
+#include <fstream>
+#include <numeric>
+#include <sstream>
+#include <iostream>
+#include <algorithm>
+using namespace std;
 
-const int MAXN = 200000;
-ll N, B;
+/*
+ * Complete the function below.
+ */
+vector < string > getSuspiciousList(vector < string > transactions) {
+	int N = transactions.size();
 
-int main() { _
-    cin >> N >> B; 
-    ll a = 0, b = 0;
-    int k;
-    FOR(i, 0, N) {
-        a *= B;  
-        
-        cin >> k;
-        a += k;
+	map<string, pair<string, int>> lastTransaction;
+
+	set<string> suspicious;
+	vector<pair<int, string> > suspiciousTime;
+
+	for(int i = 0; i < N; i++) {
+		char *p = strtok((char *)transactions[i].c_str(), "|");
+		string name, location;
+		int amount, time;
+		for(int i = 0; i < 4; i++) {
+			switch(i) {
+				case 0:
+					name = string(p);
+					break;
+				case 1:
+					amount = atoi(p);
+					break;
+				case 2:
+					location = string(p);
+					break;
+				case 3:
+					time = atoi(p);
+					break;
+			}
+			p = strtok(NULL, "|");
+		}
+
+		if (suspicious.find(name) == suspicious.end()) {
+			if (lastTransaction.find(name) != lastTransaction.end() &&
+					lastTransaction[name].first != location && time - lastTransaction[name].second < 60) {
+				suspicious.insert(name);
+				suspiciousTime.push_back(make_pair(lastTransaction[name].second, name));
+			} else if (amount > 3000) {
+				suspicious.insert(name);
+				suspiciousTime.push_back(make_pair(time, name));
+			} else {
+				lastTransaction[name] = make_pair(location, time);
+			}
+		}
+	}
+
+	sort(suspiciousTime.begin(), suspiciousTime.end());
+
+	vector<string> suspiciousAccounts;
+	for(int i = 0; i < suspiciousTime.size(); i++) {
+		suspiciousAccounts.push_back(suspiciousTime[i].second);
+	}
+
+	return suspiciousAccounts;
+}
+
+int main() {
+    vector < string > res;
+    
+    int _transactions_size = 0;
+    cin >> _transactions_size;
+    cin.ignore (std::numeric_limits<std::streamsize>::max(), '\n'); 
+    vector<string> _transactions;
+    string _transactions_item;
+    for(int _transactions_i=0; _transactions_i<_transactions_size; _transactions_i++) {
+        getline(cin, _transactions_item);
+        _transactions.push_back(_transactions_item);
     }
-  
-    cin >> N >> B;
-    FOR(i, 0, N) {
-        b *= B;
-        cin >> k;
-        b += k;
+    
+    res = getSuspiciousList(_transactions);
+    for(int res_i=0; res_i < res.size(); res_i++) {
+    	cout << res[res_i] << endl;;
     }
-
-    cout << (a == b ? '=' : a < b ? '<' : '>') << endl;
-} 
+    
+    return 0;
+}
